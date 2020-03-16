@@ -1,4 +1,4 @@
-# ressources-ecole-a-la-maison
+# Ressources pour école à la maison
 
 ## Primaire, collège
 
