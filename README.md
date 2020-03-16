@@ -26,7 +26,10 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 * https://www.masterclass.com/homepage (payant)
 * https://openclassrooms.com/fr/ (gratuit et payant)
 * Concerts de la Philarmonie : https://live.philharmoniedeparis.fr
-* Youtube bien sûr 
+* Musées en ligne : https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/
+http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement.html
+* Youtube
+* Anki
 
 ## Anglais
 
