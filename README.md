@@ -16,9 +16,10 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 
 ## Maths
 
+* Calculatrice vraiment sympa pour les multiplications notamment, mais pas seulement : https://calculatice.ac-lille.fr/spip.php?rubrique2
 * Exercices (multiplication) : https://www.geogebra.org 
 * Cours et exercices (top !) : https://fr.khanacademy.org/ 
-* Calculatrice : https://calculatice.ac-lille.fr/spip.php?rubrique2&fbclid=IwAR3RbTaDNdANqDGEQxWK5-PnYa-P4FfuyagRA4jAMhX1u64-bQ_RJ6TDi34
+
 
 ## Découverte
 
