@@ -31,7 +31,11 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement.html
 * Youtube
 * Anki
-* CNV. Jeux https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/
+* CNV. 
+** Vidéos https://apprendreaeduquer.fr/972/
+** Jeux https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/
+* Accords toltèques : https://www.youtube.com/watch?v=9AmEbXcbPGE
+
 
 ## Anglais
 
