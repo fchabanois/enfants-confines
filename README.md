@@ -35,6 +35,15 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 ** Vidéos https://apprendreaeduquer.fr/972/
 ** Jeux https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/
 * Accords toltèques : https://www.youtube.com/watch?v=9AmEbXcbPGE
+* Méditation
+** https://www.youtube.com/watch?v=CWRAe2b_ZhI
+** Guidée de 7 min : https://www.youtube.com/watch?v=CWRAe2b_ZhI 
+** Guidée de 10 min : https://www.youtube.com/watch?v=J8H90A2m_kc
+* Pensée positive
+** de 7 min : https://www.youtube.com/watch?v=99LjqdIH0WQ
+** Pensée constructive pour enfant de 10 min : https://www.youtube.com/watch?v=QpQEAKAgr1g
+
+
 
 
 ## Anglais
