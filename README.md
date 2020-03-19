@@ -48,6 +48,10 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
   * Pensée constructive pour enfant de 10 min : https://www.youtube.com/watch?v=QpQEAKAgr1g
   
   
+* Tutos scratch
+  * https://www.youtube.com/channel/UCx_wiwB_z2lgo0urhfipyFA 
+  
+  
 
 * https://www.udemy.com (payant)
 * https://www.masterclass.com/homepage (payant)
