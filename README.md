@@ -92,8 +92,26 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 https://coronavirustechhandbook.com/education
 
 
+# Intéractions camarades
+
+* Echecs : https://lichess.org/ + skype
 
 # Chronologie temps "découverte"
+
+J2.
+Dessin
+Les bases du dessin au crayon : https://www.youtube.com/watch?v=dH3zZk32gao
+Apprendre le dessin en perspective : https://www.youtube.com/watch?v=-sxP_slckBs
+
+Bénévolat
+Formation en santé et sécurité au travail : https://www.youtube.com/watch?v=RNdRQurcz1A
+Les missions bénévoles à la Croix-Rouge : https://www.youtube.com/watch?v=3_isjt1PRtE
+Comment se lancer : https://www.youtube.com/watch?v=dJAweyfNg6U
+
+
+J3.
+Voyage au bout du monde Ethiopie : https://www.youtube.com/watch?v=qaFtKOumXig 
+Voyage au bout du monde Mongolie : https://www.youtube.com/watch?v=LoBsg5_E-Xs
 
 # Initiatives sympas 
 
