@@ -28,22 +28,21 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 * Concerts de la Philarmonie : https://live.philharmoniedeparis.fr
 * Musées en ligne : https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/
 http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement.html
-* Youtube
-* Anki
 * CNV. 
- ** Vidéos https://apprendreaeduquer.fr/972/
- ** Jeux https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/
+  * Vidéos https://apprendreaeduquer.fr/972/
+  * Jeux https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/
 * Accords toltèques : https://www.youtube.com/watch?v=9AmEbXcbPGE
 * Méditation
-** https://www.youtube.com/watch?v=CWRAe2b_ZhI
-** Guidée de 7 min : https://www.youtube.com/watch?v=CWRAe2b_ZhI 
-** Guidée de 10 min : https://www.youtube.com/watch?v=J8H90A2m_kc
+  * https://www.youtube.com/watch?v=CWRAe2b_ZhI
+  * Guidée de 7 min : https://www.youtube.com/watch?v=CWRAe2b_ZhI 
+  * Guidée de 10 min : https://www.youtube.com/watch?v=J8H90A2m_kc
 * Pensée positive
-** de 7 min : https://www.youtube.com/watch?v=99LjqdIH0WQ
-** Pensée constructive pour enfant de 10 min : https://www.youtube.com/watch?v=QpQEAKAgr1g
+  * de 7 min : https://www.youtube.com/watch?v=99LjqdIH0WQ
+  * Pensée constructive pour enfant de 10 min : https://www.youtube.com/watch?v=QpQEAKAgr1g
 * https://www.udemy.com (payant)
 * https://www.masterclass.com/homepage (payant)
 * https://openclassrooms.com/fr/ (gratuit et payant)
+* Anki
 
 
 
@@ -98,21 +97,39 @@ https://coronavirustechhandbook.com/education
 
 # Chronologie temps "découverte"
 
-J2.
-Dessin
-Les bases du dessin au crayon : https://www.youtube.com/watch?v=dH3zZk32gao
-Apprendre le dessin en perspective : https://www.youtube.com/watch?v=-sxP_slckBs
+Session d'une heure.
+
+J2. Dessin
+- Les bases du dessin au crayon : https://www.youtube.com/watch?v=dH3zZk32gao
+- Apprendre le dessin en perspective : https://www.youtube.com/watch?v=-sxP_slckBs
 
 Bénévolat
-Formation en santé et sécurité au travail : https://www.youtube.com/watch?v=RNdRQurcz1A
-Les missions bénévoles à la Croix-Rouge : https://www.youtube.com/watch?v=3_isjt1PRtE
-Comment se lancer : https://www.youtube.com/watch?v=dJAweyfNg6U
+- Formation en santé et sécurité au travail : https://www.youtube.com/watch?v=RNdRQurcz1A
+- Les missions bénévoles à la Croix-Rouge : https://www.youtube.com/watch?v=3_isjt1PRtE
+- Comment se lancer : https://www.youtube.com/watch?v=dJAweyfNg6U
 
 
 J3.
-Voyage au bout du monde Ethiopie : https://www.youtube.com/watch?v=qaFtKOumXig 
-Voyage au bout du monde Mongolie : https://www.youtube.com/watch?v=LoBsg5_E-Xs
+- Voyage au bout du monde Ethiopie :star::star::star::star: : https://www.youtube.com/watch?v=qaFtKOumXig 
+- Voyage au bout du monde Mongolie :star::star::star::star: : https://www.youtube.com/watch?v=LoBsg5_E-Xs
+- CNV Vidéo 1 : https://apprendreaeduquer.fr/972/ 
 
-# Initiatives sympas 
+
+# Initiatives sympas adultes
 
 * Mise en ligne de "Chez soi" : https://twitter.com/Ed_LaDecouverte/status/1239927397941686272?s=20 
+
+
+
+
+
+
+
+
+
+
+
+
+Mémo pour édition page 
+- https://guides.github.com/features/mastering-markdown/
+- Emoji : https://www.webfx.com/tools/emoji-cheat-sheet/ 
