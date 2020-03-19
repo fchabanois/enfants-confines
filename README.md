@@ -23,9 +23,8 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 
 ## Découverte
 
-* https://www.udemy.com (payant)
-* https://www.masterclass.com/homepage (payant)
-* https://openclassrooms.com/fr/ (gratuit et payant)
+* un jour une idée : https://blog.pandacraft.com/2020/03/unjouruneidee/ 
+* un savoir par jour de Jamy : https://twitter.com/gourmaud_jamy
 * Concerts de la Philarmonie : https://live.philharmoniedeparis.fr
 * Musées en ligne : https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/
 http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement.html
@@ -42,6 +41,9 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 * Pensée positive
 ** de 7 min : https://www.youtube.com/watch?v=99LjqdIH0WQ
 ** Pensée constructive pour enfant de 10 min : https://www.youtube.com/watch?v=QpQEAKAgr1g
+* https://www.udemy.com (payant)
+* https://www.masterclass.com/homepage (payant)
+* https://openclassrooms.com/fr/ (gratuit et payant)
 
 
 
@@ -57,6 +59,11 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 * https://scratch.mit.edu
 
 
+## Histoires
+
+* Histoires animées et audio, de tout petit à 12 ans. Pour développer imagination. Applis gratuites pendant le corona : http://whisperies.com. Mais pas encore actif : https://twitter.com/kaduma/status/1239874754145923072?s=20
+* 
+
 ## A tester
 
 * https://devoirsfaits.cned.fr/JulesV2/login
@@ -65,6 +72,8 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 * cours de sondo, gratuit pendant la fermeture des écoles : https://www.sondo.fr/covid19-sondo-accessible-a-tous-gratuitement/ 
 * histoire à lire et à écrire : https://dipongo.co 
 * français : https://www.ortholud.com/index.html
+* vidéos éducatives à partir de la primaire : https://www.lumni.fr/
+
 
 ## Outils pour visio
 
@@ -82,3 +91,10 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 
 https://coronavirustechhandbook.com/education
 
+
+
+# Chronologie temps "découverte"
+
+# Initiatives sympas 
+
+* Mise en ligne de "Chez soi" : https://twitter.com/Ed_LaDecouverte/status/1239927397941686272?s=20 
