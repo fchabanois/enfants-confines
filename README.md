@@ -25,6 +25,10 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 
 * un jour une idée : https://blog.pandacraft.com/2020/03/unjouruneidee/ 
 * un savoir par jour de Jamy : https://twitter.com/gourmaud_jamy
+* c'est toujours pas sorcier : https://www.cnews.fr/divertissement/2019-12-05/cest-pas-sorcier-revient-dans-une-toute-nouvelle-version-905702
+* c'est pas sorcier : https://www.youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg
+* dessin animé culottées : https://www.france.tv/france-5/culottees/ 
+* il était une fois la vie : https://www.youtube.com/watch?v=kNnpHAszq64&feature=emb_title (intégrale sur netflix)
 
 * Concerts de la Philarmonie : https://live.philharmoniedeparis.fr
 * Musées en ligne : https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/
@@ -43,6 +47,8 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
   * de 7 min : https://www.youtube.com/watch?v=99LjqdIH0WQ
   * Pensée constructive pour enfant de 10 min : https://www.youtube.com/watch?v=QpQEAKAgr1g
   
+  
+
 * https://www.udemy.com (payant)
 * https://www.masterclass.com/homepage (payant)
 * https://openclassrooms.com/fr/ (gratuit et payant)
@@ -75,8 +81,13 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 * cours de sondo, gratuit pendant la fermeture des écoles : https://www.sondo.fr/covid19-sondo-accessible-a-tous-gratuitement/ 
 * histoire à lire et à écrire : https://dipongo.co 
 * français : https://www.ortholud.com/index.html
-* vidéos éducatives à partir de la primaire : https://www.lumni.fr/
+* vidéos éducatives à partir de la primaire de France 5: https://www.lumni.fr/
+* https://www.cnews.fr/divertissement/2020-03-17/5-programmes-tv-pour-occuper-intelligemment-les-enfants-937190
 
+
+## "Récré"
+
+- Dessins animés et pédagogie : https://www.france.tv/enfants/
 
 ## Outils pour visio
 
