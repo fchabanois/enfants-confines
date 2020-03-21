@@ -48,9 +48,6 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
   * Pensée constructive pour enfant de 10 min : https://www.youtube.com/watch?v=QpQEAKAgr1g
   
   
-* Tutos scratch (http://scratch.mit.edu/)
-  * https://www.youtube.com/channel/UCx_wiwB_z2lgo0urhfipyFA 
-  
   
 
 * https://www.udemy.com (payant)
@@ -59,22 +56,26 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 * Flashcards Anki
 
 
-
-
 ## Anglais
 
 * Duolingo : https://fr.duolingo.com 
-* https://kids.englishforschools.fr/?utm_source=cned.fr&utm_medium=autopromo&utm_campaign=page-serviceauxeleves&utm_content=vignette-efs 
+* CNED : https://kids.englishforschools.fr/?utm_source=cned.fr&utm_medium=autopromo&utm_campaign=page-serviceauxeleves&utm_content=vignette-efs 
+* Elsa speak, super app pour la prononciation, gratuit pour les élèves de primaire et secondaires pendant le COVID-19 :star::star::star::star: : https://elsaspeak.com/covid19
 
 
 ## Programmation (à partir de 8 ans)
 
-* https://scratch.mit.edu
+* Tutos [Scratch](https://scratch.mit.edu) : https://www.youtube.com/channel/UCx_wiwB_z2lgo0urhfipyFA  
 
 
 ## Histoires
 
 * Histoires animées et audio, de tout petit à 12 ans. Pour développer imagination. Applis gratuites pendant le corona : http://whisperies.com. Mais pas encore actif : https://twitter.com/kaduma/status/1239874754145923072?s=20
+
+
+## Créativité
+
+* Les Impressions du Futur ont mis en ligne sur http://riadsattouf.com des pages de Riad Sattouf en N et B sans textes, à télécharger gratis pour les écrire et/ou les colorier. [Il a hâte de voir les résultats](https://twitter.com/RiadSattouf/status/1240694421097549827?s=20).
 
 
 ## A tester
@@ -136,6 +137,7 @@ J3.
 
 # Initiatives sympas adultes
 
+* 300 livres du New York Public Library mis à dispo : https://twitter.com/Devoxx/status/1240727892042137603?s=20 
 * Mise en ligne de "Chez soi" : https://twitter.com/Ed_LaDecouverte/status/1239927397941686272?s=20 
 * Sports quotidien
   * Barre au sol : https://www.youtube.com/watch?v=kTF-BJ0tYTU&feature=emb_rel_err 
@@ -143,6 +145,12 @@ J3.
   * Yoga : https://www.youtube.com/watch?v=oBu-pQG6sTY
   * Fitnesse live à 12h30 et 18h : [CMG Sports club](https://www.facebook.com/cmgsportsclub/?hc_ref=ARSvivalUsx2ytZpSvLl2qsQ0HFKUDAbgQh7Lr8MU3TwXsATtcIa0zfO77F-RmoRx-E&ref=nf_target&__xts__%5B0%5D=68.ARBgFhZR4RC_WaxRzcXT9EO4MJE4lK_8kAwSGsopYReN7GjhWjOkltBoDULNQsmwqtmFcp7uvED7yXOi16nAfIw2RVJICcrbaORNGXZVDx5LEMgV898htpRHZ5J6Edu1TgYSBW3kh8-yI-DHtTGEBLzac6Ot9V6r6sRSp4zkzlsnXV3UbLePfr16IvPYprTgaAMRsO2fHbZwPbEBnRUhVqCjXyJv5zaqYwTCjjiFQbxb7f8nHyGnluCbsWdULUraIulWzhFvTJkQxMnMdyLV6CYHQ9eaBGXdRvUpYbZ0-7DC35goXtgA4XekpFlIpuiEUgYXk83aSmd7UUEdOvbixcDqq3Y-_TJgmIY&__tn__=kC-R)
   
+
+# A creuser pour travail à distance
+
+* Vidéos de retour d'expérience : https://twitter.com/adibolb/status/1240173636281122816?s=20
+* Outils pour formation à distance : https://nrichand.github.io/remote-agile-training/ 
+
 
 
 
