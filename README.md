@@ -5,53 +5,53 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 
 ## Manuels scolaires en ligne
 
-* Hachette, hatier : [https://monespace-educ.fr/feuilleter](Mon espace educ)
-* Bordas, Nathan : [https://adistance.manuelnumerique.com](Manuel numérique)
+* Hachette, hatier : [Mon espace educ](https://monespace-educ.fr/feuilleter)
+* Bordas, Nathan : [Manuel numérique](https://adistance.manuelnumerique.com)
 
 
 
 ## Maths
 
-* Calculatrice vraiment sympa pour les multiplications notamment, mais pas seulement : [https://calculatice.ac-lille.fr/spip.php?rubrique2](Calculatrice Lille)
-* Exercices (multiplication) : [https://www.geogebra.org ](Geogebra)
-* Cours et exercices (top !) : [https://fr.khanacademy.org/](Khan Academy) 
+* Calculatrice vraiment sympa pour les multiplications notamment, mais pas seulement : [Calculatrice Lille](https://calculatice.ac-lille.fr/spip.php?rubrique2)
+* Exercices (multiplication) : [Geogebra](https://www.geogebra.org)
+* Cours et exercices (top !) : [Khan Academy](https://fr.khanacademy.org/) 
 
 
 ## Découverte
 
-* un jour une idée : [https://blog.pandacraft.com/2020/03/unjouruneidee/](Pandacraft) 
-* un savoir par jour de Jamy : [https://twitter.com/gourmaud_jamy](Twitter Jamy)
-* [https://www.youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg](C'est pas sorcier)
-* Dessins animés [https://www.france.tv/france-5/culottees/](Culottées) 
-* Il était une fois la vie : [www.youtube.com/user/procidis](chaine youtube) et l'intégrale est sur netflix. 
-* France info qui répond aux [www.francetvinfo.fr/replay-radio/salut-l-info/](Questions d'actualité à hauteur des enfants)
-* Une [https://soundcloud.com/user-796736315/sets/radio-bambou](radio pour parler d'écologie) 
+* un jour une idée : [Pandacraft](https://blog.pandacraft.com/2020/03/unjouruneidee/) 
+* un savoir par jour de Jamy : [Twitter Jamy](https://twitter.com/gourmaud_jamy)
+* [C'est pas sorcier](https://www.youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg)
+* Dessins animés [Culottées](https://www.france.tv/france-5/culottees/) 
+* Il était une fois la vie : [chaine youtube](https://www.youtube.com/user/procidis) et l'intégrale est sur netflix. 
+* France info qui répond aux [Questions d'actualité à hauteur des enfants](https://www.francetvinfo.fr/replay-radio/salut-l-info/)
+* Une [radio pour parler d'écologie](https://soundcloud.com/user-796736315/sets/radio-bambou) 
 
-* Concerts [https://live.philharmoniedeparis.fr](live de la Philarmonie) 
-* Musées en ligne avec [https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/](visites virtuelles du Louvres, Versailles)
+* Concerts [live de la Philarmonie](https://live.philharmoniedeparis.fr) 
+* Musées en ligne avec [visites virtuelles du Louvres, Versailles](https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/)
 
 
 * CNV. 
-  * Vidéos [https://apprendreaeduquer.fr/972/](apprendre à éduquer)
-  * Jeux [https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/](pour se familiariser avec CNV en famille)
-* Accords toltèques : [https://www.youtube.com/watch?v=9AmEbXcbPGE](Inspiraction)
+  * Vidéos [apprendre à éduquer](https://apprendreaeduquer.fr/972/)
+  * Jeux [pour se familiariser avec CNV en famille](https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/)
+* Accords toltèques : [Inspiraction](https://www.youtube.com/watch?v=9AmEbXcbPGE)
 
 
 ## Temps calme
 
 * Méditation
-  * [https://www.youtube.com/watch?v=CWRAe2b_ZhI](Les arènes)
-  * Guidée de 7 min : [https://www.youtube.com/watch?v=CWRAe2b_ZhI](de 7 min)
-  * Guidée de 10 min : [https://www.youtube.com/watch?v=J8H90A2m_kc](de 10 min)
+  * [Les arènes](https://www.youtube.com/watch?v=CWRAe2b_ZhI)
+  * Guidée de 7 min : [de 7 min](https://www.youtube.com/watch?v=CWRAe2b_ZhI)
+  * Guidée de 10 min : [de 10 min](https://www.youtube.com/watch?v=J8H90A2m_kc)
 * Pensée positive
-  * de 7 min : [https://www.youtube.com/watch?v=99LjqdIH0WQ](je suis bien)
-  * Pensée constructive pour enfant [https://www.youtube.com/watch?v=QpQEAKAgr1g](de 10 min)
+  * de 7 min : [je suis bien](https://www.youtube.com/watch?v=99LjqdIH0WQ)
+  * Pensée constructive pour enfant [de 10 min](https://www.youtube.com/watch?v=QpQEAKAgr1g)
  
 
 
 ## Anglais
 
-* Mosalingua, pour tout niveau, même les grands débutants. [https://play.google.com/store/apps/developer?id=MosaLingua+Crea](Gratuit jusque dimanche 22 mars minuit). 
+* Mosalingua, pour tout niveau, même les grands débutants. [Gratuit jusque dimanche 22 mars minuit](https://play.google.com/store/apps/developer?id=MosaLingua+Crea). 
 * [https://fr.duolingo.com](Duolingo). Gamifié et un peu addictif (un peu trop ?). A partir de 8 ans.
 * [https://kids.englishforschools.fr/?utm_source=cned.fr&utm_medium=autopromo&utm_campaign=page-serviceauxeleves&utm_content=vignette-efs ](CNED) 
 * Elsa speak, super app pour la prononciation, [https://elsaspeak.com/covid19](gratuit pour les élèves de primaire et secondaires) pendant le COVID-19 :star::star::star::star: 
