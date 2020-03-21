@@ -41,12 +41,17 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * Concerts [live de la Philarmonie](https://live.philharmoniedeparis.fr) 
 * Musées en ligne avec [visites virtuelles du Louvres, Versailles](https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/)
 
-
 * CNV. 
   * Vidéos [apprendre à éduquer](https://apprendreaeduquer.fr/972/)
   * Jeux [pour se familiariser avec CNV en famille](https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/)
 * Accords toltèques : [Inspiraction](https://www.youtube.com/watch?v=9AmEbXcbPGE)
+  
 
+* Filles / Garçons
+  * [BD Avenir "C'est moi qui choisis"](http://www.egalite-filles-garcons.ac-creteil.fr/IMG/pdf/avenir_c_est_moi_qui_choisis.pdf) et [support](http://www.egalite-filles-garcons.ac-creteil.fr/IMG/pdf/guide_pe_dagogique.pdf)
+  * [Sexe et genre, est-ce la meme chose ?](http://www.egalitefillesgarcons.cfwb.be/realite-ou-fiction/sexe-genre-et-stereotypes/sexe-et-genre-est-ce-la-meme-chose/). Les [vidéos suivantes](http://www.egalitefillesgarcons.cfwb.be/realite-ou-fiction/sexe-genre-et-stereotypes/) sont prometteuses.
+  * [Film d'animation "Le jouet"](https://www.jouerlegalite.fr/ressources/)
+  
 
 ## Temps calme
 
@@ -100,7 +105,7 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 * cours gratuits pendant la fermeture des écoles : [Sondo](https://www.sondo.fr/covid19-sondo-accessible-a-tous-gratuitement/) 
 * histoire à lire et à écrire : [Dipongo](https://dipongo.co) 
 * français : [Ortholud](https://www.ortholud.com/index.html)
-* vidéos éducatives à partir de la primaire de France 5: [Lumni](https://www.lumni.fr/)
+* vidéos éducatives à partir de la primaire de France 5: [Lumni](https://www.lumni.fr/). Exemple [Les femmes et les hommes ont-ils les mêmes droits ?](https://www.lumni.fr/video/les-femmes-et-les-hommes-ont-ils-les-memes-droits)
 * [5 programmes TV pour occuper intelligemment les enfants](https://www.cnews.fr/divertissement/2020-03-17/5-programmes-tv-pour-occuper-intelligemment-les-enfants-937190)
 
 
@@ -154,6 +159,13 @@ Next à piocher :
 - [C'est pas sorcier: bonbons](https://www.youtube.com/watch?v=ZSZy2JGW4Fo)
 
 TODO : spectable de danse ["Giselle qui s’est joué à l’Opéra Garnie"](https://mobile.france.tv/spectacles-et-culture/opera-et-musique-classique/1252285-giselle-de-theophile-gautier-au-palais-garnier.html)
+
+
+## A préparer 
+
+  * Filles-garçons 
+    * [Enseigner égalité filles garçons](https://www.ac-orleans-tours.fr/fileadmin/user_upload/cult_hum37/Laicite/Stage_13_janvier_FG/6_CWD_Enseigner_l_egalite_fille_garcon.pdf), de l'AC Orélans, avec exercices. 
+    * [Ressources AC Versailles](http://www.ac-versailles.fr/cid108523/egalite-filles-garcons-ressources-pedagogiques.html)
 
 
 # Initiatives sympas pour adultes
