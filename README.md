@@ -184,6 +184,7 @@ TODO : spectable de danse ["Giselle qui s’est joué à l’Opéra Garnie"](htt
 * [Coronavirus Handbook](https://coronavirustechhandbook.com/education)
 * [Vidéos de retour d'expérience](https://twitter.com/adibolb/status/1240173636281122816?s=20)
 * [Outils pour formation à distance](https://nrichand.github.io/remote-agile-training/) 
+* [Klaxoon](https://info.klaxoon.com/fr/klaxoon-offre-3-mois-dessai-gratuit-à-ses-outils-de-travail-à-distance), gratuit 3 mois. Pour le travail collaboratif en live à distance, type tableau blanc. Très apprécié chez [Ippon](https://blog.ippon.fr/2020/03/20/outillage-du-scrum-master-dequipes-distribuees/amp/). 
 
 
 
