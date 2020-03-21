@@ -3,10 +3,6 @@
 Sauf mention contraire, toutes les ressources sont pour des enfants de la primaire jusqu'au collège. Et gratuit.
 
 
-## Détente
-
-* Bayam, l’application de Bayard sera gratuite dès lundi 16 mars. Elle offre des tas de contenus formidablement chouettes. Et si vos enfants sont fans de Mortelle Adèle leur réserve une surprise quotidienne pendant cette période de confinement !
-
 ## Manuels scolaires 
 
 * Hachette, hatier : https://monespace-educ.fr/feuilleter
@@ -50,11 +46,6 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
   
   
 
-* https://www.udemy.com (payant)
-* https://www.masterclass.com/homepage (payant)
-* https://openclassrooms.com/fr/ (gratuit et payant)
-* Flashcards Anki
-
 
 ## Anglais
 
@@ -90,9 +81,11 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 * https://www.cnews.fr/divertissement/2020-03-17/5-programmes-tv-pour-occuper-intelligemment-les-enfants-937190
 
 
-## "Récré"
+## Détente
 
-- Dessins animés et pédagogie : https://www.france.tv/enfants/
+* Appli [Bayam](https://bayam.tv/fr/) avec jeux pour tout âge. Gratuite pendant COVID-19. Spéciale Mortèle Adèle en ce moment.
+* Dessins animés et pédagogie : https://www.france.tv/enfants/
+
 
 ## Outils pour visio
 
