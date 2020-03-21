@@ -5,7 +5,7 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 
 ## Manuels scolaires 
 
-* Hachette, hatier : https://monespace-educ.fr/feuilleter
+* Hachette, hatier : [https://monespace-educ.fr/feuilleter]
 * Bordas, Nathan: https://adistance.manuelnumerique.com
 
 
