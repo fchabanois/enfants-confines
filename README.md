@@ -131,6 +131,7 @@ J3.
 J4.
 - [Arguments fallacieux](https://www.youtube.com/watch?
 list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp&time_continue=20&v=R9McgUw6kso&feature=emb_logo)
+- [Egyptologue et hiéroglyphes](https://blog.pandacraft.com/2020/03/hieroglyphes/)
 
 
 
