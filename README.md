@@ -13,12 +13,12 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 [A compter du lundi 23 mars, France 4 modifie toute sa programmation de journée pour diffuser en direct des cours dispensés par des professeurs de l'Education Nationale pour répondre à la mission "Nation Apprenante"](https://www.francetvpro.fr/france-tv/communiques-de-presse/france-televisions-ouvre-largement-ses-antennes-a-lecole-et-a-la)
  
 [La chaîne proposera ainsi des cours donnés par des professeurs pour tous les scolaires du lundi au vendredi](http://france.tv/france-4/) : 
-9h - 10h pour les CP - CE1 : 30 min de lecture - 30 min de maths
-10h - 11h programmes ludo-éducatifs pour les pré-scolaires
-13h30-14h C'est toujours pas sorcier notamment pour les 8-12 ans
-14h - 15h pour les collégiens : 30 min de français - 30 min de maths
-15h - 16h pour les lycéens (notamment les premières et les terminales) : 1h de Français, Maths, Histoire-Géo, Anglais ou Philo
-16h - 16h50 La maison Lumni pour les 8-12 ans et plus spécifiquement pour les CM1 - CM2
+* 9h - 10h pour les CP - CE1 : 30 min de lecture - 30 min de maths
+* 10h - 11h programmes ludo-éducatifs pour les pré-scolaires
+* 13h30-14h C'est toujours pas sorcier notamment pour les 8-12 ans
+* 14h - 15h pour les collégiens : 30 min de français - 30 min de maths
+* 15h - 16h pour les lycéens (notamment les premières et les terminales) : 1h de Français, Maths, Histoire-Géo, Anglais ou Philo
+* 16h - 16h50 La maison Lumni pour les 8-12 ans et plus spécifiquement pour les CM1 - CM2
 le mardi soir en prime time pour les collégiens et lycéens : Entrée en matière, une nouvelle case de documentaires historiques.
 
 ## Maths
