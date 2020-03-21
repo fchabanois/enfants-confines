@@ -10,9 +10,9 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 
 ## Tout niveau
 
-[A compter du lundi 23 mars, France 4 modifie toute sa programmation de journée pour diffuser en direct des cours dispensés par des professeurs de l'Education Nationale pour répondre à la mission "Nation Apprenante"](https://www.francetvpro.fr/france-tv/communiques-de-presse/france-televisions-ouvre-largement-ses-antennes-a-lecole-et-a-la)
+A compter du lundi 23 mars, France 4 modifie toute sa programmation de journée pour diffuser en direct [des cours dispensés par des professeurs de l'Education Nationale](https://www.francetvpro.fr/france-tv/communiques-de-presse/france-televisions-ouvre-largement-ses-antennes-a-lecole-et-a-la) pour répondre à la mission "Nation Apprenante"
  
-[La chaîne proposera ainsi des cours donnés par des professeurs pour tous les scolaires du lundi au vendredi](http://france.tv/france-4/) : 
+[La chaîne](http://france.tv/france-4/) proposera ainsi des cours donnés par des professeurs pour tous les scolaires du lundi au vendredi : 
 * 9h - 10h pour les CP - CE1 : 30 min de lecture - 30 min de maths
 * 10h - 11h programmes ludo-éducatifs pour les pré-scolaires
 * 13h30-14h C'est toujours pas sorcier notamment pour les 8-12 ans
