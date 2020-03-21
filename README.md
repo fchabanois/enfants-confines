@@ -137,6 +137,12 @@ J3.
 # Initiatives sympas adultes
 
 * Mise en ligne de "Chez soi" : https://twitter.com/Ed_LaDecouverte/status/1239927397941686272?s=20 
+* Sports quotidien
+  * Barre au sol : https://www.youtube.com/watch?v=kTF-BJ0tYTU&feature=emb_rel_err 
+  * Barre : https://www.youtube.com/watch?v=GuDb9jwYv4k&feature=youtu.be
+  * Yoga : https://www.youtube.com/watch?v=oBu-pQG6sTY
+  * Fitnesse live à 12h30 et 18h : [CMG Sports club](https://www.facebook.com/cmgsportsclub/?hc_ref=ARSvivalUsx2ytZpSvLl2qsQ0HFKUDAbgQh7Lr8MU3TwXsATtcIa0zfO77F-RmoRx-E&ref=nf_target&__xts__%5B0%5D=68.ARBgFhZR4RC_WaxRzcXT9EO4MJE4lK_8kAwSGsopYReN7GjhWjOkltBoDULNQsmwqtmFcp7uvED7yXOi16nAfIw2RVJICcrbaORNGXZVDx5LEMgV898htpRHZ5J6Edu1TgYSBW3kh8-yI-DHtTGEBLzac6Ot9V6r6sRSp4zkzlsnXV3UbLePfr16IvPYprTgaAMRsO2fHbZwPbEBnRUhVqCjXyJv5zaqYwTCjjiFQbxb7f8nHyGnluCbsWdULUraIulWzhFvTJkQxMnMdyLV6CYHQ9eaBGXdRvUpYbZ0-7DC35goXtgA4XekpFlIpuiEUgYXk83aSmd7UUEdOvbixcDqq3Y-_TJgmIY&__tn__=kC-R)
+  
 
 
 
