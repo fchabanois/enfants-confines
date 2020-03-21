@@ -71,25 +71,25 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 
 ## Programmation (à partir de 8 ans)
 
-* Tutos [Scratch](https://scratch.mit.edu) sur [https://www.youtube.com/channel/UCx_wiwB_z2lgo0urhfipyFA](Le code pour ados)
+* Tutos [Scratch](https://scratch.mit.edu) sur [Le code pour ado](https://www.youtube.com/channel/UCx_wiwB_z2lgo0urhfipyFA)
 
 
 ## Histoires
 
 * Histoires animées et audio, de tout petit à 12 ans. Pour développer imagination. Appli [Whisperies, gratuite pendant le corona](http://whisperies.com). Il faut se déconnecter avant de se reconnecter. A lire à deux (en désactivant le son) ou en autonomie.
-* Des liens pour écouter des histoire: (mettez votre enfant en position d'écoute, allongé et ou assis, les yeux fermés, demandez lui de se faire des images, des films de ce qui l'entend, cela lui permettra de mieux se concentrer)
+* Des liens pour écouter des histoires : mettez votre enfant en position d'écoute, allongé et ou assis, les yeux fermés, demandez lui de se faire des images, des films de ce qui l'entend, cela lui permettra de mieux se concentrer
   * [Encore une histoire](https://shows.acast.com/encore-une-histoire/)
   * [Des histoires en musique produit par radio classiqus](https://shows.acast.com/des-histoires-en-musique-d-elodie-fondacci), très beau
   * [Une histoire et Oli](http://www.franceinter.fr/emissions/une-histoire-et-oli) sur France Inter, connue des enfants, écoutée en classe
   * [Des histoires à écouter et à télécharger](http://la-voix-haute.lepodcast.fr/)
 
-Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dessiner un moment important de l'histoire....( Si le cour vous en dit bien, sûr)
+Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dessiner un moment important de l'histoire....( Si le coeur vous en dit bien, sûr)
     
 
 
 ## Créativité
 
-* Les [Impressions du Futur](http://riadsattouf.com) ont mis en ligne sur  des pages de Riad Sattouf en N et B sans textes, à télécharger gratis pour les écrire et/ou les colorier. [Il a hâte de voir les résultats](https://twitter.com/RiadSattouf/status/1240694421097549827?s=20)).
+* Les [Impressions du Futur](http://riadsattouf.com) ont mis en ligne des pages de Riad Sattouf en N&B sans texte pour les écrire et/ou les colorier. [L'auteur a hâte de voir les résultats](https://twitter.com/RiadSattouf/status/1240694421097549827?s=20)).
 
 
 ## A tester
@@ -158,8 +158,8 @@ TODO : spectable de danse ["Giselle qui s’est joué à l’Opéra Garnie"](htt
 
 # Initiatives sympas pour adultes
 
-* 300 livres du New York Public Library mis à dispo : https://twitter.com/Devoxx/status/1240727892042137603?s=20 
-* Mise en ligne de "Chez soi" : https://twitter.com/Ed_LaDecouverte/status/1239927397941686272?s=20 
+* [300 livres du New York Public Library](https://twitter.com/Devoxx/status/1240727892042137603?s=20 ) mis à dispo
+* Mise en ligne de ["Chez soi"](https://twitter.com/Ed_LaDecouverte/status/1239927397941686272?s=20 ), de Mona Chollet 
 * Sports quotidien
   * [Barre au sol](https://www.youtube.com/watch?v=kTF-BJ0tYTU&feature=emb_rel_err)
   * [Barre](https://www.youtube.com/watch?v=GuDb9jwYv4k&feature=youtu.be)
