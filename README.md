@@ -74,9 +74,9 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 
 
 
-## Programmation (à partir de 8 ans)
+## Programmation 
 
-* Tutos [Scratch](https://scratch.mit.edu) sur [Le code pour ado](https://www.youtube.com/channel/UCx_wiwB_z2lgo0urhfipyFA)
+* Tutos [Scratch](https://scratch.mit.edu) sur [Le code pour ado](https://www.youtube.com/channel/UCx_wiwB_z2lgo0urhfipyFA). (à partir de 6-7 ans).
 
 
 ## Histoires
