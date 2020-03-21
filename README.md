@@ -52,6 +52,12 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
   * [Sexe et genre, est-ce la meme chose ?](http://www.egalitefillesgarcons.cfwb.be/realite-ou-fiction/sexe-genre-et-stereotypes/sexe-et-genre-est-ce-la-meme-chose/). Les [vidéos suivantes](http://www.egalitefillesgarcons.cfwb.be/realite-ou-fiction/sexe-genre-et-stereotypes/) sont prometteuses.
   * [Film d'animation "Le jouet"](https://www.jouerlegalite.fr/ressources/)
   
+  
+## Liens sociaux
+
+* [5 Jeux du rire](https://apprendreaeduquer.fr/5-jeux-du-rire-enfants-leurs-parents/)
+* [Un défi par jour en famille pour créativité et joie de vivre en famille](https://apprendreaeduquer.fr/defis-en-famille-confinement/)
+* [Jeux pour renforcer liens famille](https://apprendreaeduquer.fr/jeu-7-familles-bien-etre/)
 
 ## Temps calme
 
