@@ -129,7 +129,7 @@ J2. Dessin
 - [Apprendre le dessin en perspective](https://www.youtube.com/watch?v=-sxP_slckBs)
 
 Bénévolat
-- [Formation en santé et sécurité au travail](https://www.youtube.com/watch?v=RNdRQurcz1A
+- [Formation en santé et sécurité au travail](https://www.youtube.com/watch?v=RNdRQurcz1A)
 - [Les missions bénévoles à la Croix-Rouge](https://www.youtube.com/watch?v=3_isjt1PRtE)
 - [Comment se lancer](https://www.youtube.com/watch?v=dJAweyfNg6U)
 
