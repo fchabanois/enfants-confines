@@ -131,9 +131,16 @@ J3.
 J4.
 - [Arguments fallacieux](https://www.youtube.com/watch?
 list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp&time_continue=20&v=R9McgUw6kso&feature=emb_logo)
-- [Egyptologue et hiéroglyphes](https://blog.pandacraft.com/2020/03/hieroglyphes/)
+- [Ecris ton prénom en hiéroglyphes avec une vraie egyptologue](https://blog.pandacraft.com/2020/03/hieroglyphes/)
 
 
+
+Next à piocher : 
+- [Comprendre les organes du corps humain](https://blog.pandacraft.com/2020/03/organes/)
+- [Identifier et verbaliser émotions](https://blog.pandacraft.com/2020/03/emotions/)
+- [Fabrique ton projecteur à étoiles](https://blog.pandacraft.com/2020/03/les-etoiles/)
+- [C'est pas sorcier : tortues](https://www.youtube.com/watch?v=ZSZy2JGW4Fo)
+- [C'est pas sorcier: bonbons](https://www.youtube.com/watch?v=ZSZy2JGW4Fo)
 
 TODO : spectable de danse ["Giselle qui s’est joué à l’Opéra Garnie"](https://mobile.france.tv/spectacles-et-culture/opera-et-musique-classique/1252285-giselle-de-theophile-gautier-au-palais-garnier.html)
 
