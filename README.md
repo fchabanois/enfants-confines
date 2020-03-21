@@ -22,9 +22,11 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 * un jour une idée : https://blog.pandacraft.com/2020/03/unjouruneidee/ 
 * un savoir par jour de Jamy : https://twitter.com/gourmaud_jamy
 * c'est toujours pas sorcier : https://www.cnews.fr/divertissement/2019-12-05/cest-pas-sorcier-revient-dans-une-toute-nouvelle-version-905702
-* c'est pas sorcier : https://www.youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg
+* c'est pas sorcier : https://www.youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg et www.youtube.com/user/cestpassorcierftv/videos
 * dessin animé culottées : https://www.france.tv/france-5/culottees/ 
-* il était une fois la vie : https://www.youtube.com/watch?v=kNnpHAszq64&feature=emb_title (intégrale sur netflix)
+* il était une fois la vie : https://www.youtube.com/watch?v=kNnpHAszq64&feature=emb_title (intégrale sur netflix), www.youtube.com/user/procidis
+* France info qui répond aux questions d'actualité à hauteur des enfants : www.francetvinfo.fr/replay-radio/salut-l-info/
+* Une radio pour parler d'écologie : soundcloud.com/user-796736315/sets/radio-bambou
 
 * Concerts de la Philarmonie : https://live.philharmoniedeparis.fr
 * Musées en ligne : https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/
@@ -35,6 +37,9 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
   * Jeux https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/
 * Accords toltèques : https://www.youtube.com/watch?v=9AmEbXcbPGE
 
+
+## Temps calme
+
 * Méditation
   * https://www.youtube.com/watch?v=CWRAe2b_ZhI
   * Guidée de 7 min : https://www.youtube.com/watch?v=CWRAe2b_ZhI 
@@ -42,9 +47,7 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 * Pensée positive
   * de 7 min : https://www.youtube.com/watch?v=99LjqdIH0WQ
   * Pensée constructive pour enfant de 10 min : https://www.youtube.com/watch?v=QpQEAKAgr1g
-  
-  
-  
+ 
 
 
 ## Anglais
@@ -62,6 +65,22 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 ## Histoires
 
 * Histoires animées et audio, de tout petit à 12 ans. Pour développer imagination. Applis gratuites pendant le corona : http://whisperies.com. Mais pas encore actif : https://twitter.com/kaduma/status/1239874754145923072?s=20
+
+ 
+Des liens pour écouter des histoire: ( mettez votre enfant en position d'écoute, allongé et ou assis, les yeux fermés, demandez lui de se faire des images, des films de ce qui l'entend, cela lui permettra de mieux se concentrer)
+shows.acast.com/encore-une-histoire/
+
+Des histoires en musique produit par radio classique (très beau)
+shows.acast.com/des-histoires-en-musique-d-elodie-fondacci
+
+Une histoire et Oli sur France Inter (connue des enfants, écoutée en classe)
+www.franceinter.fr/emissions/une-histoire-et-oli
+
+Des histoires à écouter et à télécharger:
+http://la-voix-haute.lepodcast.fr/
+
+Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dessiner un moment important de l'histoire....( Si le cour vous en dit bien, sûr)
+    
 
 
 ## Créativité
@@ -90,7 +109,6 @@ http://demain-lecole.over-blog.com/2020/03/10-musees-en-ligne-a-visiter-depuis-c
 ## Outils pour visio
 
 * https://coronavirustechhandbook.com/education
-
 
 
 
@@ -128,7 +146,10 @@ J3.
 - CNV Vidéo 1 : https://apprendreaeduquer.fr/972/ 
 
 
-# Initiatives sympas adultes
+TODO : spectable de danse "Giselle qui s’est joué à l’Opéra Garnie"
+https://mobile.france.tv/spectacles-et-culture/opera-et-musique-classique/1252285-giselle-de-theophile-gautier-au-palais-garnier.html 
+
+# Initiatives sympas pour adultes
 
 * 300 livres du New York Public Library mis à dispo : https://twitter.com/Devoxx/status/1240727892042137603?s=20 
 * Mise en ligne de "Chez soi" : https://twitter.com/Ed_LaDecouverte/status/1239927397941686272?s=20 
