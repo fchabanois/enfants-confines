@@ -192,6 +192,7 @@ J4.
 - [Arguments fallacieux](https://www.youtube.com/watch?
 list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp&time_continue=20&v=R9McgUw6kso&feature=emb_logo) 
 - [Ecris ton prénom en hiéroglyphes avec une vraie egyptologue](https://blog.pandacraft.com/2020/03/hieroglyphes/). 
+- [Démonstration effets Lavage de mains](https://twitter.com/AuroraIntel/status/1241311979068952576?s=20)
 
 J5.
 - [Orchestre philarmonique de Rotterdam en remote](https://bit.ly/3aaMa71). J'ai adoré.
