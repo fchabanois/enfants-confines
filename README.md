@@ -81,11 +81,11 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
   * [Les arènes](https://www.youtube.com/watch?v=CWRAe2b_ZhI)
   * Guidée de 7 min : [de 7 min](https://www.youtube.com/watch?v=CWRAe2b_ZhI)
   * Guidée de 10 min : [de 10 min](https://www.youtube.com/watch?v=J8H90A2m_kc)
-* En famille
-  # On ferme les yeux, on regarde ce qui se passe dans le corps, dans la tête. L’adulte peut commencer (« dans mon corps, je sens ça et ça {silence de 10 secondes} ... dans ma tête, j’ai telle et telle pensée qui passe {silence de 10 secondes} ... »). Puis il demande à l’enfant, toujours les yeux fermés, de décrire à son tour.
-  # On ressent sa respiration. L’adulte peut parler en premier : « je sens l’air qui entre et ressort dans mon nez et ma gorge {silence de 10 secondes} ... je sens mon ventre et ma poitrine qui se soulèvent {silence de 10 secondes.} ... et telle chose quand j’inspire {silence de 10 secondes} ... quand j’expire {silence de 10 secondes} ... » Puis, c’est au tour de l’enfant.
-  # Prendre quelques minutes pour écouter attentivement tous les sons qui arrivent aux oreilles. Les décrire précisément (« ils viennent par quel côté ? Ils sont agréables à écouter ? »).
-  # Parcourir toutes les parties de son corps, des pieds à la tête, en imaginant qu’on est une petite fourmi, qui escalade les genoux, tombe dans le nombril, explore le visage (l’adulte raconte le parcours et l’enfant ressent son corps).
+* En famille (extrait)
+  1. On ferme les yeux, on regarde ce qui se passe dans le corps, dans la tête. L’adulte peut commencer (« dans mon corps, je sens ça et ça {silence de 10 secondes} ... dans ma tête, j’ai telle et telle pensée qui passe {silence de 10 secondes} ... »). Puis il demande à l’enfant, toujours les yeux fermés, de décrire à son tour.
+  2. On ressent sa respiration. L’adulte peut parler en premier : « je sens l’air qui entre et ressort dans mon nez et ma gorge {silence de 10 secondes} ... je sens mon ventre et ma poitrine qui se soulèvent {silence de 10 secondes.} ... et telle chose quand j’inspire {silence de 10 secondes} ... quand j’expire {silence de 10 secondes} ... » Puis, c’est au tour de l’enfant.
+  3. Prendre quelques minutes pour écouter attentivement tous les sons qui arrivent aux oreilles. Les décrire précisément (« ils viennent par quel côté ? Ils sont agréables à écouter ? »).
+  4. Parcourir toutes les parties de son corps, des pieds à la tête, en imaginant qu’on est une petite fourmi, qui escalade les genoux, tombe dans le nombril, explore le visage (l’adulte raconte le parcours et l’enfant ressent son corps).
   * Méditer en prenant un repas en silence : c’est comme un jeu, on regarde, on renifle, on prend une bouchée... Et à chaque étape, on décrit ce qu’on ressent.
   * Marcher très lentement dans la pièce ou le jardin, pieds nus, les yeux fermés, les mains en avant, en sentant bien chaque pas, en changeant de direction à chaque obstacle, et en décrivant ce qu’on ressent dans ses jambes, son corps, sous ses mains, etc.
 * l’application Petit Bambou propose des séances de méditation adaptées aux enfants. 
