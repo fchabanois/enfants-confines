@@ -172,7 +172,7 @@ TODO : spectable de danse ["Giselle qui s’est joué à l’Opéra Garnie"](htt
   * Filles-garçons 
     * [Enseigner égalité filles garçons](https://www.ac-orleans-tours.fr/fileadmin/user_upload/cult_hum37/Laicite/Stage_13_janvier_FG/6_CWD_Enseigner_l_egalite_fille_garcon.pdf), de l'AC Orélans, avec exercices. 
     * [Ressources AC Versailles](http://www.ac-versailles.fr/cid108523/egalite-filles-garcons-ressources-pedagogiques.html)
-  * Danse : https://www.numeridanse.tv/tadaam?t
+  * Danse : [Tadaam](https://www.numeridanse.tv/tadaam?t)
 
 
 # Initiatives sympas pour adultes
