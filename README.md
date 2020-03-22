@@ -92,6 +92,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * Pensée positive
   * de 7 min : [je suis bien](https://www.youtube.com/watch?v=99LjqdIH0WQ)
   * Pensée constructive pour enfant [de 10 min](https://www.youtube.com/watch?v=QpQEAKAgr1g)
+
  
 
 
@@ -125,6 +126,7 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 ## Créativité
 
 * Les [Impressions du Futur](http://riadsattouf.com) ont mis en ligne des pages de Riad Sattouf en N&B sans texte pour les écrire et/ou les colorier. [L'auteur a hâte de voir les résultats](https://twitter.com/RiadSattouf/status/1240694421097549827?s=20)).
+* Pénélope Bagieu emboite le pas avec des [illustations de Sacrées Sorcières](https://twitter.com/PenelopeB/status/1240909555439149056?s=20).
 
 
 ## A tester
@@ -178,6 +180,12 @@ J4.
 - [Arguments fallacieux](https://www.youtube.com/watch?
 list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp&time_continue=20&v=R9McgUw6kso&feature=emb_logo)
 - [Ecris ton prénom en hiéroglyphes avec une vraie egyptologue](https://blog.pandacraft.com/2020/03/hieroglyphes/)
+
+J5.
+- [Orchestre philarmonique de Rotterdam en remote](https://bit.ly/3aaMa71). J'ai adoré.
+- [Culottées s01e01, Elisabeth Kellerman](https://www.france.tv/france-5/culottees/culottees-saison-1/1307273-annette-kellerman.html)
+- [Culottées s01e02, Wu ze tian](https://www.france.tv/france-5/culottees/culottees-saison-1/1307275-wu-zetian.html). Mon enfant a adoré.
+- [Scénarisation](https://twitter.com/fchabanois/status/1241820876275941377?s=20) et coloriage d'une planche de [Riad Sattouf](https://www.riadsattouf.com/collections/frontpage/products/pipit-farlouse-br-a-telecharger-a-ecrire-et-a-colorier-cliquez-sur-limage-1)
 
 
 
