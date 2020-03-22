@@ -70,13 +70,22 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 ## Liens sociaux
 
 * [5 Jeux du rire](https://apprendreaeduquer.fr/5-jeux-du-rire-enfants-leurs-parents/)
-* [Un défi par jour en famille pour créativité et joie de vivre en famille](https://apprendreaeduquer.fr/defis-en-famille-confinement/)
 * [Jeux pour renforcer liens famille](https://apprendreaeduquer.fr/jeu-7-familles-bien-etre/)
-* 
+
+
+## Micros défis
+* Trouver au moins 3 points communs entre : une lampe et une banane, une chemise et un
+vase, un fauteuil et des chaussures (source : [Un défi par jour en famille pour créativité et joie de vivre en famille](https://apprendreaeduquer.fr/defis-en-famille-confinement/))
+* Raconter une histoire contenant les mots : tam tam, chou fleur, poilu, bison
+* Trouver au moins 3 points communs entre : une lampe et une banane, une chemise et un
+vase, un fauteuil et des chaussures
+* Pour les gauchers : faire un dessin de la main droite (inversement pour les droitiers)
+* Effectuer aujourd’hui quelque chose qu’on n’a jamais fait avant
 
 
 ## Temps calme
 
+* Déceler le maximum de formes en observant les nuages pendant cinq minutes
 * Méditation
   * [Les arènes](https://www.youtube.com/watch?v=CWRAe2b_ZhI)
   * Guidée de 7 min : [de 7 min](https://www.youtube.com/watch?v=CWRAe2b_ZhI)
@@ -127,6 +136,9 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 
 * Les [Impressions du Futur](http://riadsattouf.com) ont mis en ligne des pages de Riad Sattouf en N&B sans texte pour les écrire et/ou les colorier. [L'auteur a hâte de voir les résultats](https://twitter.com/RiadSattouf/status/1240694421097549827?s=20)).
 * Pénélope Bagieu emboite le pas avec des [illustations de Sacrées Sorcières](https://twitter.com/PenelopeB/status/1240909555439149056?s=20).
+* Organiser un spectacle d’objets
+* Cuisiner quelque chose que la famille n'a jamais mangé
+
 
 
 ## A tester
