@@ -189,8 +189,7 @@ J3.
 - [CNV Vidéo 1](https://apprendreaeduquer.fr/972/)
 
 J4.
-- [Arguments fallacieux](https://www.youtube.com/watch?
-list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp&time_continue=20&v=R9McgUw6kso&feature=emb_logo) 
+- [Arguments fallacieux](https://youtu.be/R9McgUw6kso) 
 - [Ecris ton prénom en hiéroglyphes avec une vraie egyptologue](https://blog.pandacraft.com/2020/03/hieroglyphes/). 
 - [Démonstration effets Lavage de mains](https://twitter.com/AuroraIntel/status/1241311979068952576?s=20)
 
