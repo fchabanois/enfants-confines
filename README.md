@@ -163,6 +163,7 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 
 * [Taleming](https://taleming.com/occuper-enfants-maison-coronavirus/)
 * [Github Ellene](https://github.com/Ellene/activite-automie-enfant)
+* [Guide des parents confinés](https://www.leucate.fr/images/documents/Guide_des_parents_confines_-_50_astuces_de_pro.pdf)
 
 
 # Interactions camarades
