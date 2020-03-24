@@ -60,6 +60,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
   * Jeux [pour se familiariser avec CNV en famille](https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/)
 * Accords toltèques : [Inspiraction](https://www.youtube.com/watch?v=9AmEbXcbPGE)
   
+* [France info junior](https://www.francetvinfo.fr/replay-radio/france-info-junior/)
 * [Lumni](https://www.lumni.fr/)
 * Animations sur plein de sujets, encore plus conseillé pour français et maths : [fondamentaux du réseau canope](https://lesfondamentaux.reseau-canope.fr/accueil.html)
 
