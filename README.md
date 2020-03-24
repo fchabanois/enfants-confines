@@ -200,6 +200,11 @@ J5.
 - [Culottées s01e02, Wu ze tian](https://www.france.tv/france-5/culottees/culottees-saison-1/1307275-wu-zetian.html). Mon enfant a adoré.
 - [Scénarisation](https://twitter.com/fchabanois/status/1241820876275941377?s=20) et coloriage d'une planche de [Riad Sattouf](https://www.riadsattouf.com/collections/frontpage/products/pipit-farlouse-br-a-telecharger-a-ecrire-et-a-colorier-cliquez-sur-limage-1)
 
+J6. (pas un grand succès sur enfant 7 ans)
+- vidéo Regardez « Le Jouet » sur #Vimeo https://vimeo.com/242630204
+- podcast écologie https://soundcloud.com/user-796736315/6-radio-bambou-la-chaussure-qui-revait-detre-un-pot-de-fleurs?in=user-796736315/sets/radio-bambou
+- dipongo : histoire participative + création (https://dipongo.co). 
+- analyse actu pour enfants "pourquoi la France est confinée" : https://www.francetvinfo.fr/sante/maladie/coronavirus/podcast-pourquoi-la-france-est-confinee-nos-explications-et-nos-conseils-aux-enfants-pour-mieux-comprendre-et-s-occuper_3874979.html
 
 
 Next à piocher : 
