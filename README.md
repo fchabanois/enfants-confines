@@ -39,6 +39,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * [C'est pas sorcier](https://www.youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg)
 * Dessins animés [Culottées](https://www.france.tv/france-5/culottees/) 
 * Il était une fois la vie : [chaine youtube](https://www.youtube.com/user/procidis) et l'intégrale est sur netflix. 
+* 20 programmes de Radio France : Odyssées, histoire OLI, tintin, astérix, découverte d'instruments de musiques, actualités,  brèves d'école, ils ont fait l'histoire, etc. [Guide familial en Version PDF](https://res.cloudinary.com/dhujzeqia/image/upload/v1585037749/RF_GuideFamille_web1.pdf) ou [version Internet](https://www.radiofrance.fr/actualite/guide-de-radio-france-pour-les-familles). 
 * France info qui répond aux [Questions d'actualité à hauteur des enfants](https://www.francetvinfo.fr/replay-radio/salut-l-info/)
 * Une [radio pour parler d'écologie](https://soundcloud.com/user-796736315/sets/radio-bambou) 
 
