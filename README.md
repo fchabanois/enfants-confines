@@ -11,7 +11,7 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 ## Tout niveau
 
 * [Ma primaire](https://www.maprimaire.fr) pour l'école primaire :D 
-* vidéos éducatives à partir de la primaire de France 5 : [Lumni](https://www.lumni.fr/). Exemple [Les femmes et les hommes ont-ils les mêmes droits ?](https://www.lumni.fr/video/les-femmes-et-les-hommes-ont-ils-les-memes-droits). Top pour les curieux.
+* vidéos éducatives à partir de la primaire de France 5 : [Lumni](https://www.lumni.fr/). 
 * France 4 modifie toute sa programmation de journée pour diffuser en direct [des cours dispensés par des professeurs de l'Education Nationale](https://www.francetvpro.fr/france-tv/communiques-de-presse/france-televisions-ouvre-largement-ses-antennes-a-lecole-et-a-la) pour répondre à la mission "Nation Apprenante"
  
 [La chaîne](http://france.tv/france-4/) proposera ainsi des cours donnés par des professeurs pour tous les scolaires du lundi au vendredi : 
@@ -61,7 +61,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * Accords toltèques : [Inspiraction](https://www.youtube.com/watch?v=9AmEbXcbPGE)
   
 * [France info junior](https://www.francetvinfo.fr/replay-radio/france-info-junior/)
-* [Lumni](https://www.lumni.fr/)
+* [Lumni](https://www.lumni.fr/). Exemples : [Les femmes et les hommes ont-ils les mêmes droits ?](https://www.lumni.fr/video/les-femmes-et-les-hommes-ont-ils-les-memes-droits) ou [histoires de pirates](https://www.lumni.fr/serie/histoire-de-pirates). Top pour les curieux.
 * Animations sur plein de sujets, encore plus conseillé pour français et maths : [fondamentaux du réseau canope](https://lesfondamentaux.reseau-canope.fr/accueil.html)
 
 * Filles / Garçons
