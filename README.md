@@ -11,19 +11,24 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 ## Tout niveau
 
 * [Ma primaire](https://www.maprimaire.fr) pour l'école primaire :D 
-* France 4
-
-A compter du lundi 23 mars, France 4 modifie toute sa programmation de journée pour diffuser en direct [des cours dispensés par des professeurs de l'Education Nationale](https://www.francetvpro.fr/france-tv/communiques-de-presse/france-televisions-ouvre-largement-ses-antennes-a-lecole-et-a-la) pour répondre à la mission "Nation Apprenante"
+* vidéos éducatives à partir de la primaire de France 5 : [Lumni](https://www.lumni.fr/). Exemple [Les femmes et les hommes ont-ils les mêmes droits ?](https://www.lumni.fr/video/les-femmes-et-les-hommes-ont-ils-les-memes-droits). Top pour les curieux.
+* France 4 modifie toute sa programmation de journée pour diffuser en direct [des cours dispensés par des professeurs de l'Education Nationale](https://www.francetvpro.fr/france-tv/communiques-de-presse/france-televisions-ouvre-largement-ses-antennes-a-lecole-et-a-la) pour répondre à la mission "Nation Apprenante"
  
 [La chaîne](http://france.tv/france-4/) proposera ainsi des cours donnés par des professeurs pour tous les scolaires du lundi au vendredi : 
-* 9h - 10h pour les CP - CE1 : 30 min de lecture - 30 min de maths
-* 10h - 11h programmes ludo-éducatifs pour les pré-scolaires
-* 13h30-14h C'est toujours pas sorcier notamment pour les 8-12 ans
-* 14h - 15h pour les collégiens : 30 min de français - 30 min de maths
-* 15h - 16h pour les lycéens (notamment les premières et les terminales) : 1h de Français, Maths, Histoire-Géo, Anglais ou Philo
-* 16h - 16h50 La maison Lumni pour les 8-12 ans et plus spécifiquement pour les CM1 - CM2
+  * 9h - 10h pour les CP - CE1 : 30 min de lecture - 30 min de maths
+  * 10h - 11h programmes ludo-éducatifs pour les pré-scolaires
+  * 13h30-14h C'est toujours pas sorcier notamment pour les 8-12 ans
+  * 14h - 15h pour les collégiens : 30 min de français - 30 min de maths
+  * 15h - 16h pour les lycéens (notamment les premières et les terminales) : 1h de Français, Maths, Histoire-Géo, Anglais ou Philo
+  * 16h - 16h50 La maison Lumni pour les 8-12 ans et plus spécifiquement pour les CM1 - CM2
 le mardi soir en prime time pour les collégiens et lycéens : Entrée en matière, une nouvelle case de documentaires historiques.
 
+* [Devoirs faits du CNED Jules V2](https://devoirsfaits.cned.fr/JulesV2/login)
+* Animations sur plein de sujets, encore plus conseillé pour français et maths : [fondamentaux du réseau canope](https://lesfondamentaux.reseau-canope.fr/accueil.html)
+* maxicours + exos, [gratuit de 9h à 17h pendant le corona](https://www.maxicours.com/se/entraide-covid19) 
+* cours gratuits pendant la fermeture des écoles : [Sondo](https://www.sondo.fr/covid19-sondo-accessible-a-tous-gratuitement/) 
+* histoire à lire et à écrire : [Dipongo](https://dipongo.co) 
+* français : [Ortholud](https://www.ortholud.com/index.html)
 
 ## Maths
 
@@ -43,6 +48,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * France info qui répond aux [Questions d'actualité à hauteur des enfants](https://www.francetvinfo.fr/replay-radio/salut-l-info/)
 * Une [radio pour parler d'écologie](https://soundcloud.com/user-796736315/sets/radio-bambou) 
 
+
 * Pour les passionnés de musique, Arte propose 600 concerts en ligne. L’opéra de Paris propose ses spectacles en ligne gratuitement sur Culturebox.
 * Concerts [live de la Philarmonie](https://live.philharmoniedeparis.fr) 
 * Musées en ligne avec [visites virtuelles du Louvres, Versailles](https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/)
@@ -54,6 +60,8 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
   * Jeux [pour se familiariser avec CNV en famille](https://apprendreaeduquer.fr/gratuits-3-jeux-se-familiariser-communication-non-violente-famille/)
 * Accords toltèques : [Inspiraction](https://www.youtube.com/watch?v=9AmEbXcbPGE)
   
+* [Lumni](https://www.lumni.fr/)
+* Animations sur plein de sujets, encore plus conseillé pour français et maths : [fondamentaux du réseau canope](https://lesfondamentaux.reseau-canope.fr/accueil.html)
 
 * Filles / Garçons
   * [BD Avenir "C'est moi qui choisis"](http://www.egalite-filles-garcons.ac-creteil.fr/IMG/pdf/avenir_c_est_moi_qui_choisis.pdf) et [support](http://www.egalite-filles-garcons.ac-creteil.fr/IMG/pdf/guide_pe_dagogique.pdf)
@@ -149,13 +157,6 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 
 ## A tester
 
-* [Devoirs faits du CNED Jules V2](https://devoirsfaits.cned.fr/JulesV2/login)
-* animations sur pleins sujet, encore plus conseillé pour français et maths : [fondamentaux du réseau canope](https://www.reseau-canope.fr/fondamentaux/accueil.htm)
-* maxicours + exos, [gratuit de 9h à 17h pendant le corona](https://www.maxicours.com/se/entraide-covid19) 
-* cours gratuits pendant la fermeture des écoles : [Sondo](https://www.sondo.fr/covid19-sondo-accessible-a-tous-gratuitement/) 
-* histoire à lire et à écrire : [Dipongo](https://dipongo.co) 
-* français : [Ortholud](https://www.ortholud.com/index.html)
-* vidéos éducatives à partir de la primaire de France 5: [Lumni](https://www.lumni.fr/). Exemple [Les femmes et les hommes ont-ils les mêmes droits ?](https://www.lumni.fr/video/les-femmes-et-les-hommes-ont-ils-les-memes-droits)
 * [5 programmes TV pour occuper intelligemment les enfants](https://www.cnews.fr/divertissement/2020-03-17/5-programmes-tv-pour-occuper-intelligemment-les-enfants-937190)
 
 
