@@ -10,6 +10,9 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 
 ## Tout niveau
 
+* [Ma primaire](https://www.maprimaire.fr) pour l'école primaire :D 
+* France 4
+
 A compter du lundi 23 mars, France 4 modifie toute sa programmation de journée pour diffuser en direct [des cours dispensés par des professeurs de l'Education Nationale](https://www.francetvpro.fr/france-tv/communiques-de-presse/france-televisions-ouvre-largement-ses-antennes-a-lecole-et-a-la) pour répondre à la mission "Nation Apprenante"
  
 [La chaîne](http://france.tv/france-4/) proposera ainsi des cours donnés par des professeurs pour tous les scolaires du lundi au vendredi : 
@@ -20,6 +23,7 @@ A compter du lundi 23 mars, France 4 modifie toute sa programmation de journée 
 * 15h - 16h pour les lycéens (notamment les premières et les terminales) : 1h de Français, Maths, Histoire-Géo, Anglais ou Philo
 * 16h - 16h50 La maison Lumni pour les 8-12 ans et plus spécifiquement pour les CM1 - CM2
 le mardi soir en prime time pour les collégiens et lycéens : Entrée en matière, une nouvelle case de documentaires historiques.
+
 
 ## Maths
 
@@ -55,8 +59,9 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
   * [Sexe et genre, est-ce la meme chose ?](http://www.egalitefillesgarcons.cfwb.be/realite-ou-fiction/sexe-genre-et-stereotypes/sexe-et-genre-est-ce-la-meme-chose/). Les [vidéos suivantes](http://www.egalitefillesgarcons.cfwb.be/realite-ou-fiction/sexe-genre-et-stereotypes/) sont prometteuses.
   * [Film d'animation "Le jouet"](https://www.jouerlegalite.fr/ressources/)
   
-## Jeux pédagogiques
+## Jeux éducatifs
 
+* Jeux éducatifs primaire et collège sur [logicieleducatif.fr](https://www.logicieleducatif.fr). Par exemple pour le CE1? [le jeu des allumettes](https://www.logicieleducatif.fr/math/calcul/allumettes-du-calcul.php) est sympa.
 * Jeu des objets : rassembler tous un tas d’objets de petite/moyenne taille autour de soi. Chacun son tour, on place un objet dans un sac. On doit récapituler au fur et à mesure tout ce qu’il y a dans le sac. Ex : « dans le sac, il y a une cuillère, une pile, une clé, etc. ». Quand on ne se souvient plus, on arrête tout et on recommence à remplir le sac.
 * Jeu de la photo : on demande à l’enfant de bien « photographier » la disposition des objets/meubles dans la pièce pendant 2 minutes. Puis il doit aller se cacher, on déplace alors une chaise et quelques éléments bien visibles. Lorsque l’enfant revient, il doit expliquer ce qui a changé dans la pièce.
 
