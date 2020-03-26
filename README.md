@@ -43,9 +43,11 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * un savoir par jour de Jamy : [Twitter Jamy](https://twitter.com/gourmaud_jamy)
 * [C'est pas sorcier](https://www.youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg)
 * Dessins animés [Culottées](https://www.france.tv/france-5/culottees/) 
+  * [Interview de l'auteur Pénélogue Bagieu sur France Info junior](https://www.francetvinfo.fr/replay-radio/france-info-junior/franceinfo-junior-inspiration-engagement-penelope-bagieu-repond-a-des-questions-de-collegiens_3829625.html)
 * Il était une fois la vie : [chaine youtube](https://www.youtube.com/user/procidis) et l'intégrale est sur netflix. 
 * 20 programmes de Radio France : Odyssées, histoire OLI, tintin, astérix, découverte d'instruments de musiques, actualités,  brèves d'école, ils ont fait l'histoire, etc. [Guide familial en Version PDF](https://res.cloudinary.com/dhujzeqia/image/upload/v1585037749/RF_GuideFamille_web1.pdf) ou [version Internet](https://www.radiofrance.fr/actualite/guide-de-radio-france-pour-les-familles). 
 * France info qui répond aux [Questions d'actualité à hauteur des enfants](https://www.francetvinfo.fr/replay-radio/salut-l-info/)
+* [Le p'tit libé pour les enfants](https://ptitlibe.liberation.fr), avec une [spéciale COVID-19](https://ptitlibe.liberation.fr/coronavirus-dernieres-infos,101211)
 * Une [radio pour parler d'écologie](https://soundcloud.com/user-796736315/sets/radio-bambou) 
 
 
@@ -215,11 +217,24 @@ J6. (pas un grand succès sur enfant 7 ans)
 - analyse actu pour enfants "pourquoi la France est confinée" : https://www.francetvinfo.fr/sante/maladie/coronavirus/podcast-pourquoi-la-france-est-confinee-nos-explications-et-nos-conseils-aux-enfants-pour-mieux-comprendre-et-s-occuper_3874979.html
 
 
+J7. 
+- [C'est pas sorcier : tortues](https://www.youtube.com/watch?v=ZSZy2JGW4Fo)
+- Court métrage sur les accords toltèques : [Inspiraction](https://www.youtube.com/watch?v=9AmEbXcbPGE). 
+- CNV [vidéo 2](https://apprendreaeduquer.fr/communication-violente-comment-communiquer-langage-girafe-29/) et [vidéo 3](https://apprendreaeduquer.fr/apprendre-observer-juger-en-communication-violente-39/). Top, pour adulte et enfants.
+- [Un petit geste d'altruisme](https://www.youtube.com/watch?v=wOMv2LBZg8I). Mignon mais pas un grand succès.
+
+
+
+J8. 
+- [Giselle, spectacle de danse à l'Opéra de Paris](https://mobile.france.tv/spectacles-et-culture/opera-et-musique-classique/1252285-giselle-de-theophile-gautier-au-palais-garnier.html). Vue en plusieurs fois, et réclamé.
+- [Podcast Alexandre Jacob, cambrioleur et justicier](https://www.franceinter.fr/emissions/les-odyssees/alexandre-marius-jacob-cambrioleur-et-justicier). "C'était génial !" 
+
+
 Next à piocher : 
 - [Comprendre les organes du corps humain](https://blog.pandacraft.com/2020/03/organes/)
 - [Identifier et verbaliser émotions](https://blog.pandacraft.com/2020/03/emotions/)
 - [Fabrique ton projecteur à étoiles](https://blog.pandacraft.com/2020/03/les-etoiles/)
-- [C'est pas sorcier : tortues](https://www.youtube.com/watch?v=ZSZy2JGW4Fo)
+- [Brèves d'école](https://www.francebleu.fr/emissions/breves-d-ecole/herault)
 - [C'est pas sorcier: bonbons](https://www.youtube.com/watch?v=ZSZy2JGW4Fo)
 
 TODO : spectable de danse ["Giselle qui s’est joué à l’Opéra Garnie"](https://mobile.france.tv/spectacles-et-culture/opera-et-musique-classique/1252285-giselle-de-theophile-gautier-au-palais-garnier.html)
