@@ -61,6 +61,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * Accords toltèques : [Inspiraction](https://www.youtube.com/watch?v=9AmEbXcbPGE)
   
 * [France info junior](https://www.francetvinfo.fr/replay-radio/france-info-junior/)
+* [Les petits citoyens](https://www.youtube.com/channel/UCIkPguRh1cdf__SECpBaLXg), dessins animés de 3 min.
 * [Lumni](https://www.lumni.fr/). Exemples : [Les femmes et les hommes ont-ils les mêmes droits ?](https://www.lumni.fr/video/les-femmes-et-les-hommes-ont-ils-les-memes-droits) ou [histoires de pirates](https://www.lumni.fr/serie/histoire-de-pirates). Top pour les curieux.
 * Animations sur plein de sujets, encore plus conseillé pour français et maths : [fondamentaux du réseau canope](https://lesfondamentaux.reseau-canope.fr/accueil.html)
 
@@ -228,12 +229,20 @@ J8.
 - [Podcast Alexandre Jacob, cambrioleur et justicier](https://www.franceinter.fr/emissions/les-odyssees/alexandre-marius-jacob-cambrioleur-et-justicier). "C'était génial !" 
 
 
+J9.
+- [D'égal à égal : un professeur part en congé paternité](https://www.youtube.com/watch?v=GP3euPSRyhY) (3min).
+- [Depuis quand la poupée Barbie existe-t-elle ?](https://www.lumni.fr/video/depuis-quand-la-poupee-barbie-existe-t-elle#containerType=folder&containerSlug=1-jour-1-question-cest-quoi-legalite-filles-garcons) 
+- [C'est quoi l'égalité filles garçons ?](https://www.lumni.fr/video/pourquoi-y-a-t-il-moins-de-filles-qui-font-des-etudes-de-sciences#containerType=folder&containerSlug=1-jour-1-question-cest-quoi-legalite-filles-garcon)
+- [Comprendre les organes du corps humains](https://blog.pandacraft.com/2020/03/organes/), de 3 à 7 ans
+- [C'est pas sorcier: bonbons](https://www.youtube.com/watch?v=ZSZy2JGW4Fo)
+- [Culottées : Margaret Hamilton](https://www.france.tv/france-5/culottees/culottees-saison-1/1306229-margaret-hamilton-actrice-terrifiante.html), suivi d'un extrait du [magicien d'Oz](https://www.youtube.com/watch?v=DJAovQp7QY8). 
+
+
 Next à piocher : 
-- [Comprendre les organes du corps humain](https://blog.pandacraft.com/2020/03/organes/)
 - [Identifier et verbaliser émotions](https://blog.pandacraft.com/2020/03/emotions/)
 - [Fabrique ton projecteur à étoiles](https://blog.pandacraft.com/2020/03/les-etoiles/)
 - [Brèves d'école](https://www.francebleu.fr/emissions/breves-d-ecole/herault)
-- [C'est pas sorcier: bonbons](https://www.youtube.com/watch?v=ZSZy2JGW4Fo)
+
 
 TODO : spectable de danse ["Giselle qui s’est joué à l’Opéra Garnie"](https://mobile.france.tv/spectacles-et-culture/opera-et-musique-classique/1252285-giselle-de-theophile-gautier-au-palais-garnier.html)
 
