@@ -7,6 +7,7 @@ Sauf mention contraire, toutes les ressources sont pour des enfants de la primai
 
 * Hachette, hatier : [Mon espace educ](https://monespace-educ.fr/feuilleter)
 * Bordas, Nathan : [Manuel numérique](https://adistance.manuelnumerique.com)
+* [Liste de "tous" les éditeurs par Dealabs](https://www.dealabs.com/bons-plans/continuite-pedagogiques-1853961)
 
 ## Tout niveau
 
@@ -87,6 +88,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
   
 ## Liens sociaux
 
+* [Fous fous fous de PnP](https://drive.google.com/file/d/1dSE1A0RyXTbLjVMDvpRxMluDKtaRdnF2/view), à imprimer
 * [5 Jeux du rire](https://apprendreaeduquer.fr/5-jeux-du-rire-enfants-leurs-parents/)
 * [Jeux pour renforcer liens famille](https://apprendreaeduquer.fr/jeu-7-familles-bien-etre/)
 
@@ -100,6 +102,10 @@ vase, un fauteuil et des chaussures
 * Pour les gauchers : faire un dessin de la main droite (inversement pour les droitiers)
 * Effectuer aujourd’hui quelque chose qu’on n’a jamais fait avant
 
+## Ateliers 
+
+* [Expériences de Wiki Débrouillards](https://www.wikidebrouillard.org/wiki/Accueil)
+* [40 activités pour la quarantaine de Pixees](https://pixees.fr/quarante-activites-pour-la-quarantaine/)
 
 ## Temps calme
 
@@ -135,6 +141,9 @@ vase, un fauteuil et des chaussures
 ## Programmation 
 
 * Tutos [Scratch](https://scratch.mit.edu) sur [Le code pour ado](https://www.youtube.com/channel/UCx_wiwB_z2lgo0urhfipyFA). (à partir de 6-7 ans).
+* [Class'Code qui a rassemblé 40 activités de 7 à 16+ ans](https://pixees.fr/quarante-activites-pour-la-quarantaine/)
+* [Vidéos pas à pas de Tonton Maker](https://www.youtube.com/channel/UCIrWHCZhoqje6zHwDjEJVcw)
+* [Ressources de Mixteen](https://mixteen.org/ressources.html)
 
 
 ## Histoires
@@ -175,6 +184,7 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 * [Taleming](https://taleming.com/occuper-enfants-maison-coronavirus/)
 * [Github Ellene](https://github.com/Ellene/activite-automie-enfant)
 * [Guide des parents confinés](https://www.leucate.fr/images/documents/Guide_des_parents_confines_-_50_astuces_de_pro.pdf)
+* [Entraide corona](https://www.entraidecoronavirus.fr/t/occuper-les-enfants/80/2)
 
 
 # Interactions camarades
