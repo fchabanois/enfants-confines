@@ -47,6 +47,8 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * France info qui répond aux [Questions d'actualité à hauteur des enfants](https://www.francetvinfo.fr/replay-radio/salut-l-info/)
 * [Le p'tit libé pour les enfants](https://ptitlibe.liberation.fr), avec une [spéciale COVID-19](https://ptitlibe.liberation.fr/coronavirus-dernieres-infos,101211)
 * Une [radio pour parler d'écologie](https://soundcloud.com/user-796736315/sets/radio-bambou) 
+* [Sélection de documentaires pour s'évader de chez soi](https://www.lemonde.fr/m-voyage/article/2020/03/28/cinq-documentaires-pour-s-evader-de-chez-soi_6034791_4497613.html)
+* [8 concerts intimes](https://www.lemonde.fr/musiques/article/2020/03/22/huit-concerts-intimes-pour-public-confine_6034046_1654986.html)
 
 
 * Pour les passionnés de musique, Arte propose 600 concerts en ligne. L’opéra de Paris propose ses spectacles en ligne gratuitement sur Culturebox.
@@ -285,7 +287,9 @@ TODO : spectable de danse ["Giselle qui s’est joué à l’Opéra Garnie"](htt
 
 
 
+# Films et séries
 
+* Sélection de films sur netflix : http://www.allocine.fr/article/fichearticle_gen_carticle=18688598.html
 
 
 
