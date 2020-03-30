@@ -274,6 +274,7 @@ TODO : spectable de danse ["Giselle qui s’est joué à l’Opéra Garnie"](htt
 
 * [300 livres du New York Public Library](https://twitter.com/Devoxx/status/1240727892042137603?s=20 ) mis à dispo
 * Mise en ligne de ["Chez soi"](https://twitter.com/Ed_LaDecouverte/status/1239927397941686272?s=20 ), de Mona Chollet 
+* [Sélection Sports à distance du Monde](https://www.lemonde.fr/sport/article/2020/03/28/le-coaching-sportif-a-domicile-une-aubaine-en-temps-de-confinement_6034790_3242.html)
 * Sports quotidien
   * [Barre au sol](https://www.youtube.com/watch?v=kTF-BJ0tYTU&feature=emb_rel_err)
   * [Barre](https://www.youtube.com/watch?v=GuDb9jwYv4k&feature=youtu.be)
