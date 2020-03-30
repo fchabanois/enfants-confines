@@ -175,8 +175,10 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 
 ## Détente
 
+* [BDs Dargaud](https://www.dargaud.com/Le-Mag/Actualites/Restezchezvous-On-vous-offre-de-la-lecture-gratuite-%21-2-nouvelles-BD)
 * Appli [Bayam](https://bayam.tv/fr/) avec jeux pour tout âge. Gratuite pendant COVID-19. Spéciale Mortèle Adèle en ce moment.
 * Dessins animés et pédagogie : [France TV](https://www.france.tv/enfants/)
+
 
 
 ## Ailleurs
