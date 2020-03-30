@@ -107,6 +107,7 @@ vase, un fauteuil et des chaussures
 * [Expériences de Wiki Débrouillards](https://www.wikidebrouillard.org/wiki/Accueil)
 * [40 activités pour la quarantaine de Pixees](https://pixees.fr/quarante-activites-pour-la-quarantaine/)
 
+
 ## Temps calme
 
 * Déceler le maximum de formes en observant les nuages pendant cinq minutes
@@ -165,6 +166,8 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 * Pénélope Bagieu emboite le pas avec des [illustations de Sacrées Sorcières](https://twitter.com/PenelopeB/status/1240909555439149056?s=20).
 * Organiser un spectacle d’objets
 * Cuisiner quelque chose que la famille n'a jamais mangé
+* [Activités de Dargaud](https://www.dargaud.com/Le-Mag/Actualites/Restezchezvous-des-activites-pour-vos-enfants)
+
 
 
 
@@ -256,9 +259,7 @@ Next à piocher :
 - [Identifier et verbaliser émotions](https://blog.pandacraft.com/2020/03/emotions/)
 - [Fabrique ton projecteur à étoiles](https://blog.pandacraft.com/2020/03/les-etoiles/)
 - [Brèves d'école](https://www.francebleu.fr/emissions/breves-d-ecole/herault)
-
-
-TODO : spectable de danse ["Giselle qui s’est joué à l’Opéra Garnie"](https://mobile.france.tv/spectacles-et-culture/opera-et-musique-classique/1252285-giselle-de-theophile-gautier-au-palais-garnier.html)
+- [Mots croisés de Picobogue](https://www.dargaud.com/Le-Mag/Actualites/Atelier-jeunesse-Les-Mots-croises-de-Pico-Bogue)
 
 
 ## A préparer 
