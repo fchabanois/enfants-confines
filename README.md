@@ -309,7 +309,13 @@ Next à piocher :
   * Fitnesse live à 12h30 et 18h : [CMG Sports club](https://www.facebook.com/cmgsportsclub/?hc_ref=ARSvivalUsx2ytZpSvLl2qsQ0HFKUDAbgQh7Lr8MU3TwXsATtcIa0zfO77F-RmoRx-E&ref=nf_target&__xts__%5B0%5D=68.ARBgFhZR4RC_WaxRzcXT9EO4MJE4lK_8kAwSGsopYReN7GjhWjOkltBoDULNQsmwqtmFcp7uvED7yXOi16nAfIw2RVJICcrbaORNGXZVDx5LEMgV898htpRHZ5J6Edu1TgYSBW3kh8-yI-DHtTGEBLzac6Ot9V6r6sRSp4zkzlsnXV3UbLePfr16IvPYprTgaAMRsO2fHbZwPbEBnRUhVqCjXyJv5zaqYwTCjjiFQbxb7f8nHyGnluCbsWdULUraIulWzhFvTJkQxMnMdyLV6CYHQ9eaBGXdRvUpYbZ0-7DC35goXtgA4XekpFlIpuiEUgYXk83aSmd7UUEdOvbixcDqq3Y-_TJgmIY&__tn__=kC-R)
 * [PODCAST Comment France Inter innove en plein de crise](https://ginkio.com/podcast/32) 
 * [PODCAST Je dois m'inquiéter ?](https://podcasts.apple.com/fr/podcast/1-je-dois-minqui%C3%A9ter/id1460254881?i=1000436778338)
+
   
+
+# Pour les parents
+
+* [Mes enfants se bagarrent](https://www.pedopsydebre.org/post/mes-enfants-se-bagarrent-toute-la-journ%C3%A9e-durant-le-confinement)
+* [Ressources confinement avec enfants](https://www.pedopsydebre.org/fiches-pratiques), comme [planification journée](https://www.pedopsydebre.org/post/planification-de-la-journ%C3%A9e-en-p%C3%A9riode-de-confinement-pour-les-enfants-de-3-%C3%A0-11-ans)
 
 
 # A creuser pour travail à distance
@@ -322,6 +328,7 @@ Next à piocher :
 * [Klaxoon](https://info.klaxoon.com/fr/klaxoon-offre-3-mois-dessai-gratuit-à-ses-outils-de-travail-à-distance), gratuit 3 mois. Pour le travail collaboratif en live à distance, type tableau blanc. Très apprécié chez [Ippon](https://blog.ippon.fr/2020/03/20/outillage-du-scrum-master-dequipes-distribuees/amp/). 
 * [Retour d'expérience d'Ippon sur télétravail](https://blog.ippon.fr/2020/03/20/outillage-du-scrum-master-dequipes-distribuees/amp/?__twitter_impression=true)
 * [Halte à la sursollicitation numérique](https://www.grenoble-em.com/sites/default/files/public/kcfinder/Guide_sursollicitation_numerique.pdf)
+* [Pair programming en open source](https://philippe.bourgau.net/best-open-source-tools-for-remote-pair-programming/?utm_content=buffer86b0f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 
 
@@ -336,7 +343,11 @@ Next à piocher :
 
 * Sélection de films sur netflix : http://www.allocine.fr/article/fichearticle_gen_carticle=18688598.html
 * [Films alruistes](https://parissecret.com/5-films-inspirants-sur-laltruisme-a-revoir-absolument-pendant-le-confinement/)
-
+* Voilà 4 séries humanistes, sensibles (et drôles) pour retrouver foi en l'humanité
+  * Detectorists
+  * Anne with an E
+  * The Good Place
+  * After Life
 
 
 
