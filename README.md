@@ -54,7 +54,8 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 
 * Pour les passionnés de musique, Arte propose 600 concerts en ligne. L’opéra de Paris propose ses spectacles en ligne gratuitement sur Culturebox.
 * Concerts [live de la Philarmonie](https://live.philharmoniedeparis.fr) 
-* Musées en ligne avec [visites virtuelles du Louvres, Versailles](https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/)
+* Musées en ligne avec [visites virtuelles du Louvres, Versailles](https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/) et en 3D [référencés par Paris Secret](https://parissecret.com/confinement-quels-musees-parisiens-celebres-proposent-des-visites-virtuelles-gratuites/)
+* [Musée Cernuschi en 3D](https://parissecret.com/confinement-les-tresors-du-musee-cernuschi-donnes-a-voir-gratuitement-en-3d-depuis-chez-vous/)
 
 * Le studio Tigre Yoga, offre un cours de Yoga quotidien
 
@@ -167,6 +168,7 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 * Organiser un spectacle d’objets
 * Cuisiner quelque chose que la famille n'a jamais mangé
 * [Activités de Dargaud](https://www.dargaud.com/Le-Mag/Actualites/Restezchezvous-des-activites-pour-vos-enfants)
+* [Créer sa BD avec BDnF](https://parissecret.com/confinement-la-bnf-sort-une-application-gratuite-pour-creer-sa-propre-bd/)
 
 
 
@@ -254,6 +256,16 @@ J9.
 - [C'est pas sorcier: bonbons](https://www.youtube.com/watch?v=ZSZy2JGW4Fo)
 - [Culottées : Margaret Hamilton](https://www.france.tv/france-5/culottees/culottees-saison-1/1306229-margaret-hamilton-actrice-terrifiante.html), suivi d'un extrait du [magicien d'Oz](https://www.youtube.com/watch?v=DJAovQp7QY8). 
 
+J10.
+- [Machine à nettoyer sa chambre](https://www.youtube.com/watch?v=6ELECc41YYk), de Joseph's machines
+- 
+
+J12.
+- [Fabriquer la machine à raisin](https://www.youtube.com/watch?v=tn60Sbrkgwo&t=6s), de Joseph's machines
+
+J15.
+- [Atelier Gonfler un ballon avec un peu de chimie](https://www.wikidebrouillard.org/wiki/Gonfler_un_ballon_sans_souffler), des wiki débrouillards
+- 
 
 Next à piocher : 
 - [Identifier et verbaliser émotions](https://blog.pandacraft.com/2020/03/emotions/)
@@ -304,6 +316,7 @@ Next à piocher :
 # Films et séries
 
 * Sélection de films sur netflix : http://www.allocine.fr/article/fichearticle_gen_carticle=18688598.html
+* [Films alruistes](https://parissecret.com/5-films-inspirants-sur-laltruisme-a-revoir-absolument-pendant-le-confinement/)
 
 
 
