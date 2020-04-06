@@ -109,6 +109,7 @@ vase, un fauteuil et des chaussures
 
 * [Expériences de Wiki Débrouillards](https://www.wikidebrouillard.org/wiki/Accueil)
 * [40 activités pour la quarantaine de Pixees](https://pixees.fr/quarante-activites-pour-la-quarantaine/)
+* [Les p'tites manips](https://www.youtube.com/channel/UC9JQQll_r5k1O_Y18ymTp4g/videos)
 
 
 ## Temps calme
@@ -182,6 +183,7 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 
 ## Détente
 
+* [BD La guerre des fourmis](http://www.laguerredesfourmis.com/)
 * [BDs Dargaud](https://www.dargaud.com/Le-Mag/Actualites/Restezchezvous-On-vous-offre-de-la-lecture-gratuite-%21-2-nouvelles-BD)
 * Appli [Bayam](https://bayam.tv/fr/) avec jeux pour tout âge. Gratuite pendant COVID-19. Spéciale Mortèle Adèle en ce moment.
 * Dessins animés et pédagogie : [France TV](https://www.france.tv/enfants/)
@@ -201,6 +203,7 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 # Interactions camarades
 
 * Echecs : [Lichess](https://lichess.org/) + skype
+
 
 # Chronologie temps "découverte"
 
@@ -262,7 +265,7 @@ J9.
 
 J10.
 - [Machine à nettoyer sa chambre](https://www.youtube.com/watch?v=6ELECc41YYk), de Joseph's machines
-- 
+
 
 J12.
 - [Fabriquer la machine à raisin](https://www.youtube.com/watch?v=tn60Sbrkgwo&t=6s), de Joseph's machines
@@ -272,6 +275,8 @@ J15.
 
 
 Next à piocher : 
+- [MK2 Curiosity](https://www.troiscouleurs.fr/curiosity-by-mk2/). Chaque semaine, mk2 et @Trois_Couleurs
+ vous offrent une sélection de films gratuits. Découvrez l’épisode 3 de mk2 Curiosity.
 - [Harry Potter @home](https://www.wizardingworld.com/collections/harry-potter-at-home)
 - [Cirque du soleil](https://parissecret.com/confinement-le-cirque-du-soleil-diffuse-ses-spectacles-en-ligne-gratuitement/)
 - [Identifier et verbaliser émotions](https://blog.pandacraft.com/2020/03/emotions/)
@@ -309,6 +314,7 @@ Next à piocher :
 
 # A creuser pour travail à distance
 
+* [Livre digital de travail à distance](https://drive.google.com/file/d/1RplcfhYm7AisN51Hk_vmrCINhWKr66lm/view), par BeNext
 * [Coronavirus Handbook](https://coronavirustechhandbook.com/education)
 * [Vidéos de retour d'expérience](https://twitter.com/adibolb/status/1240173636281122816?s=20)
 * [Outils pour formation à distance](https://nrichand.github.io/remote-agile-training/) 
