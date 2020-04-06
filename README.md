@@ -301,7 +301,7 @@ Next à piocher :
 * [Coronavirus Handbook](https://coronavirustechhandbook.com/education)
 * [Vidéos de retour d'expérience](https://twitter.com/adibolb/status/1240173636281122816?s=20)
 * [Outils pour formation à distance](https://nrichand.github.io/remote-agile-training/) 
-* [Jitsi Meet, visio conf open source](https://www.01net.com/astuces/comment-realiser-vos-appels-video-avec-jitsi-meet-1882665.html)
+* [Jitsi Meet, visio conf open source](https://www.01net.com/astuces/comment-realiser-vos-appels-video-avec-jitsi-meet-1882665.html). Netcloud Talk aussi open source.
 * [Klaxoon](https://info.klaxoon.com/fr/klaxoon-offre-3-mois-dessai-gratuit-à-ses-outils-de-travail-à-distance), gratuit 3 mois. Pour le travail collaboratif en live à distance, type tableau blanc. Très apprécié chez [Ippon](https://blog.ippon.fr/2020/03/20/outillage-du-scrum-master-dequipes-distribuees/amp/). 
 * [Retour d'expérience d'Ippon sur télétravail](https://blog.ippon.fr/2020/03/20/outillage-du-scrum-master-dequipes-distribuees/amp/?__twitter_impression=true)
 
