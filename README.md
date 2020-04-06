@@ -185,6 +185,7 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 
 * [BD La guerre des fourmis](http://www.laguerredesfourmis.com/)
 * [BDs Dargaud](https://www.dargaud.com/Le-Mag/Actualites/Restezchezvous-On-vous-offre-de-la-lecture-gratuite-%21-2-nouvelles-BD)
+* [BDs sur Iznéo](https://www.izneo.com/fr/bd/free)
 * Appli [Bayam](https://bayam.tv/fr/) avec jeux pour tout âge. Gratuite pendant COVID-19. Spéciale Mortèle Adèle en ce moment.
 * Dessins animés et pédagogie : [France TV](https://www.france.tv/enfants/)
 
