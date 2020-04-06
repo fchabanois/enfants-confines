@@ -87,6 +87,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * Jeu du foulard à la taille : les deux joueurs ont un foulard accroché à leur ceinture au niveau de leur dos. Le but est de saisir le foulard de l’autre, sans le toucher, tout en préservant le sien !
 * Jeu du béret en gainage : les deux joueurs sont en position de planche : face au sol, en appui sur les pointes de pied et les bras tendus. Les deux joueurs se positionnent l’un en face de l’autre. Placez un petit objet (une balle, un tissu, un petit jouet...) entre vous deux et au signal, attrapez le le plus vite possible !
 * Jeu du foulard au pied : les deux joueurs ont un foulard au niveau d'une de leurs chevilles. Il doit être glissé à l'intérieur du pantalon en laissant dépasser seulement une petite partie. Les deux joueurs se placent face à face, à quatre pattes sur le sol. Le but est de saisir le foulard de l’autre tout en préservant le sien !
+* [Jeu de l'oie spécial confinement](https://www.coolparentsmakehappykids.com/wp-content/uploads/2020/03/CPMHK_Jeu-de-loie_20200323.pdf), de Cool Parents
 
   
 ## Liens sociaux
@@ -114,6 +115,7 @@ vase, un fauteuil et des chaussures
 
 ## Temps calme
 
+* [Jeux calmes de Cool Parents](https://www.coolparentsmakehappykids.com/11-jeux-relaxation-enfants)
 * Déceler le maximum de formes en observant les nuages pendant cinq minutes
 * Méditation
   * [Les arènes](https://www.youtube.com/watch?v=CWRAe2b_ZhI)
