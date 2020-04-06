@@ -52,7 +52,9 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * [8 concerts intimes](https://www.lemonde.fr/musiques/article/2020/03/22/huit-concerts-intimes-pour-public-confine_6034046_1654986.html)
 
 
-* Pour les passionnés de musique, Arte propose 600 concerts en ligne. L’opéra de Paris propose ses spectacles en ligne gratuitement sur Culturebox.
+* [Cirque du soleil](https://parissecret.com/confinement-le-cirque-du-soleil-diffuse-ses-spectacles-en-ligne-gratuitement/)
+* [600 concerts en ligne par Arte](https://www.arte.tv/fr/arte-concert/)
+* [L’opéra de Paris propose ses spectacles en ligne gratuitement](https://www.france.tv/france-3/l-opera-de-paris/replay-videos/)
 * Concerts [live de la Philarmonie](https://live.philharmoniedeparis.fr) 
 * Musées en ligne avec [visites virtuelles du Louvres, Versailles](https://quatremille.be/10-musees-en-ligne-a-visiter-depuis-chez-vous-gratuitement/) et en 3D [référencés par Paris Secret](https://parissecret.com/confinement-quels-musees-parisiens-celebres-proposent-des-visites-virtuelles-gratuites/)
 * [Musée Cernuschi en 3D](https://parissecret.com/confinement-les-tresors-du-musee-cernuschi-donnes-a-voir-gratuitement-en-3d-depuis-chez-vous/)
@@ -188,10 +190,12 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 
 ## Ailleurs
 
+* [17 activités scientifiques et ludiques et créatives sur echo sciences](https://www.echosciences-sud.fr/articles/confinement-intelligent-17-activites-scientifiques-ludiques-et-creatives-a-faire-chez-soi)
 * [Taleming](https://taleming.com/occuper-enfants-maison-coronavirus/)
 * [Github Ellene](https://github.com/Ellene/activite-automie-enfant)
 * [Guide des parents confinés](https://www.leucate.fr/images/documents/Guide_des_parents_confines_-_50_astuces_de_pro.pdf)
 * [Entraide corona](https://www.entraidecoronavirus.fr/t/occuper-les-enfants/80/2)
+
 
 
 # Interactions camarades
@@ -265,13 +269,18 @@ J12.
 
 J15.
 - [Atelier Gonfler un ballon avec un peu de chimie](https://www.wikidebrouillard.org/wiki/Gonfler_un_ballon_sans_souffler), des wiki débrouillards
-- 
+
 
 Next à piocher : 
+- [Harry Potter @home](https://www.wizardingworld.com/collections/harry-potter-at-home)
+- [Cirque du soleil](https://parissecret.com/confinement-le-cirque-du-soleil-diffuse-ses-spectacles-en-ligne-gratuitement/)
 - [Identifier et verbaliser émotions](https://blog.pandacraft.com/2020/03/emotions/)
 - [Fabrique ton projecteur à étoiles](https://blog.pandacraft.com/2020/03/les-etoiles/)
 - [Brèves d'école](https://www.francebleu.fr/emissions/breves-d-ecole/herault)
 - [Mots croisés de Picobogue](https://www.dargaud.com/Le-Mag/Actualites/Atelier-jeunesse-Les-Mots-croises-de-Pico-Bogue)
+- [17 activités scientifiques et ludiques et créatives sur echo sciences](https://www.echosciences-sud.fr/articles/confinement-intelligent-17-activites-scientifiques-ludiques-et-creatives-a-faire-chez-soi). Magicien mathématique, expériences... ca a l'air super ! 
+
+
 
 
 ## A préparer 
@@ -293,6 +302,8 @@ Next à piocher :
   * [Barre](https://www.youtube.com/watch?v=GuDb9jwYv4k&feature=youtu.be)
   * [Yoga](https://www.youtube.com/watch?v=oBu-pQG6sTY)
   * Fitnesse live à 12h30 et 18h : [CMG Sports club](https://www.facebook.com/cmgsportsclub/?hc_ref=ARSvivalUsx2ytZpSvLl2qsQ0HFKUDAbgQh7Lr8MU3TwXsATtcIa0zfO77F-RmoRx-E&ref=nf_target&__xts__%5B0%5D=68.ARBgFhZR4RC_WaxRzcXT9EO4MJE4lK_8kAwSGsopYReN7GjhWjOkltBoDULNQsmwqtmFcp7uvED7yXOi16nAfIw2RVJICcrbaORNGXZVDx5LEMgV898htpRHZ5J6Edu1TgYSBW3kh8-yI-DHtTGEBLzac6Ot9V6r6sRSp4zkzlsnXV3UbLePfr16IvPYprTgaAMRsO2fHbZwPbEBnRUhVqCjXyJv5zaqYwTCjjiFQbxb7f8nHyGnluCbsWdULUraIulWzhFvTJkQxMnMdyLV6CYHQ9eaBGXdRvUpYbZ0-7DC35goXtgA4XekpFlIpuiEUgYXk83aSmd7UUEdOvbixcDqq3Y-_TJgmIY&__tn__=kC-R)
+* [PODCAST Comment France Inter innove en plein de crise](https://ginkio.com/podcast/32) 
+* [PODCAST Je dois m'inquiéter ?](https://podcasts.apple.com/fr/podcast/1-je-dois-minqui%C3%A9ter/id1460254881?i=1000436778338)
   
 
 
@@ -304,6 +315,7 @@ Next à piocher :
 * [Jitsi Meet, visio conf open source](https://www.01net.com/astuces/comment-realiser-vos-appels-video-avec-jitsi-meet-1882665.html). Netcloud Talk aussi open source.
 * [Klaxoon](https://info.klaxoon.com/fr/klaxoon-offre-3-mois-dessai-gratuit-à-ses-outils-de-travail-à-distance), gratuit 3 mois. Pour le travail collaboratif en live à distance, type tableau blanc. Très apprécié chez [Ippon](https://blog.ippon.fr/2020/03/20/outillage-du-scrum-master-dequipes-distribuees/amp/). 
 * [Retour d'expérience d'Ippon sur télétravail](https://blog.ippon.fr/2020/03/20/outillage-du-scrum-master-dequipes-distribuees/amp/?__twitter_impression=true)
+* [Halte à la sursollicitation numérique](https://www.grenoble-em.com/sites/default/files/public/kcfinder/Guide_sursollicitation_numerique.pdf)
 
 
 
