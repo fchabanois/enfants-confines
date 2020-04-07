@@ -349,6 +349,7 @@ Next à piocher :
 
 # Films et séries
 
+* Journal d'un dégonflé 2, sur la chaine disney.
 * Sélection de films sur netflix : http://www.allocine.fr/article/fichearticle_gen_carticle=18688598.html
 * [Films alruistes](https://parissecret.com/5-films-inspirants-sur-laltruisme-a-revoir-absolument-pendant-le-confinement/)
 * Voilà 4 séries humanistes, sensibles (et drôles) pour retrouver foi en l'humanité
