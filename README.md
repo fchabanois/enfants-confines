@@ -52,7 +52,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * [8 concerts intimes](https://www.lemonde.fr/musiques/article/2020/03/22/huit-concerts-intimes-pour-public-confine_6034046_1654986.html)
 
 
-* [Cirque du soleil](https://parissecret.com/confinement-le-cirque-du-soleil-diffuse-ses-spectacles-en-ligne-gratuitement/)
+* [Cirque du soleil](https://www.cirquedusoleil.com/fr/cirqueconnect)
 * [600 concerts en ligne par Arte](https://www.arte.tv/fr/arte-concert/)
 * [L’opéra de Paris propose ses spectacles en ligne gratuitement](https://www.france.tv/france-3/l-opera-de-paris/replay-videos/)
 * Concerts [live de la Philarmonie](https://live.philharmoniedeparis.fr) 
