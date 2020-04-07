@@ -270,12 +270,14 @@ J9.
 J10.
 - [Machine à nettoyer sa chambre](https://www.youtube.com/watch?v=6ELECc41YYk), de Joseph's machines
 
-
 J12.
 - [Fabriquer la machine à raisin](https://www.youtube.com/watch?v=tn60Sbrkgwo&t=6s), de Joseph's machines
 
 J15.
 - [Atelier Gonfler un ballon avec un peu de chimie](https://www.wikidebrouillard.org/wiki/Gonfler_un_ballon_sans_souffler), des wiki débrouillards
+
+J16.
+- [Cirque du soleil, 60 minutes spécial](https://youtu.be/allVFq3P-48)
 
 
 Next à piocher : 
@@ -283,6 +285,7 @@ Next à piocher :
  vous offrent une sélection de films gratuits. Découvrez l’épisode 3 de mk2 Curiosity.
 - [Harry Potter @home](https://www.wizardingworld.com/collections/harry-potter-at-home)
 - [Cirque du soleil](https://parissecret.com/confinement-le-cirque-du-soleil-diffuse-ses-spectacles-en-ligne-gratuitement/)
+- https://blog.pandacraft.com/2020/03/papier-recycle/
 - [Identifier et verbaliser émotions](https://blog.pandacraft.com/2020/03/emotions/)
 - [Fabrique ton projecteur à étoiles](https://blog.pandacraft.com/2020/03/les-etoiles/)
 - [Brèves d'école](https://www.francebleu.fr/emissions/breves-d-ecole/herault)
