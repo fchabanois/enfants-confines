@@ -333,6 +333,7 @@ Next à piocher :
 * [Retour d'expérience d'Ippon sur télétravail](https://blog.ippon.fr/2020/03/20/outillage-du-scrum-master-dequipes-distribuees/amp/?__twitter_impression=true)
 * [Halte à la sursollicitation numérique](https://www.grenoble-em.com/sites/default/files/public/kcfinder/Guide_sursollicitation_numerique.pdf)
 * [Pair programming en open source](https://philippe.bourgau.net/best-open-source-tools-for-remote-pair-programming/?utm_content=buffer86b0f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Trello pour intégration à distance](https://trello.com/b/nGvGcHbK/remote-onboarding-by-eleven-labs), par Eleven labs
 
 
 
