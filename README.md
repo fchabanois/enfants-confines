@@ -337,6 +337,7 @@ Next à piocher :
 * [Halte à la sursollicitation numérique](https://www.grenoble-em.com/sites/default/files/public/kcfinder/Guide_sursollicitation_numerique.pdf)
 * [Pair programming en open source](https://philippe.bourgau.net/best-open-source-tools-for-remote-pair-programming/?utm_content=buffer86b0f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Trello pour intégration à distance](https://trello.com/b/nGvGcHbK/remote-onboarding-by-eleven-labs), par Eleven labs
+* [Télétravail à domicile](https://www.carsat-nordpicardie.fr/images/stories/GRP/mp%20teletravail.pdf), Carsat Nord Picardie
 
 
 
