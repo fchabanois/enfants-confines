@@ -279,6 +279,13 @@ J15.
 J16.
 - [Cirque du soleil, 60 minutes spécial](https://youtu.be/allVFq3P-48)
 
+J17.
+- [Fabriquer une balai magique avec de l'argile](https://www.wizardingworld.com/features/learn-how-to-make-broomstick-charm] 
+- [Quizz Votre meilleur ami à Poudlard ?](https://harrypotter.bloomsbury.com/uk/fun-stuff/who-is-your-hogwarts-best-friend/#hpq-top )
+- [Générateur de noms du monde de Harry Potter](https://harrypotter.bloomsbury.com/uk/fun-stuff/name-generator/)
+- [Recherche de mots du monde de Harry](https://www.wizardingworld.com/features/just-a-hopefully-easy-harry-potter-wordsearch). Pas si simple ! Mes enfants ont bien accroché !
+- [Quizz Harry Potter premier volume](https://www.wizardingworld.com/quiz/the-first-year-hogwarts-professors-quiz). Là aussi c'est du sérieux.... Mon enfant ultra fan s'est trompé à une question :o. 
+
 
 Next à piocher : 
 - [MK2 Curiosity](https://www.troiscouleurs.fr/curiosity-by-mk2/). Chaque semaine, mk2 et @Trois_Couleurs
