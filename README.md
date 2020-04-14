@@ -323,6 +323,7 @@ Next à piocher :
   * Fitnesse live à 12h30 et 18h : [CMG Sports club](https://www.facebook.com/cmgsportsclub/?hc_ref=ARSvivalUsx2ytZpSvLl2qsQ0HFKUDAbgQh7Lr8MU3TwXsATtcIa0zfO77F-RmoRx-E&ref=nf_target&__xts__%5B0%5D=68.ARBgFhZR4RC_WaxRzcXT9EO4MJE4lK_8kAwSGsopYReN7GjhWjOkltBoDULNQsmwqtmFcp7uvED7yXOi16nAfIw2RVJICcrbaORNGXZVDx5LEMgV898htpRHZ5J6Edu1TgYSBW3kh8-yI-DHtTGEBLzac6Ot9V6r6sRSp4zkzlsnXV3UbLePfr16IvPYprTgaAMRsO2fHbZwPbEBnRUhVqCjXyJv5zaqYwTCjjiFQbxb7f8nHyGnluCbsWdULUraIulWzhFvTJkQxMnMdyLV6CYHQ9eaBGXdRvUpYbZ0-7DC35goXtgA4XekpFlIpuiEUgYXk83aSmd7UUEdOvbixcDqq3Y-_TJgmIY&__tn__=kC-R)
 * [PODCAST Comment France Inter innove en plein de crise](https://ginkio.com/podcast/32) 
 * [PODCAST Je dois m'inquiéter ?](https://podcasts.apple.com/fr/podcast/1-je-dois-minqui%C3%A9ter/id1460254881?i=1000436778338)
+* [PODCAST Liberté politique et démocratie](https://www.franceculture.fr/philosophie/philosophie-politique-huit-emissions-sur-les-notions-de-liberte-politique-et-de-democratie)
 
   
 
