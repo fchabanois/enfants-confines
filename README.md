@@ -286,6 +286,17 @@ J17.
 - [Recherche de mots du monde de Harry](https://www.wizardingworld.com/features/just-a-hopefully-easy-harry-potter-wordsearch). Pas si simple ! Mes enfants ont bien accroché !
 - [Quizz Harry Potter premier volume](https://www.wizardingworld.com/quiz/the-first-year-hogwarts-professors-quiz). Là aussi c'est du sérieux.... Mon enfant ultra fan s'est trompé à une question :o. 
 
+J20.
+- Récolte des euros de la maison. Très sympa à faire.
+  - observation : tri des doublons, triplés, etc.
+  - géographie : repérage sur la carte du pays. Quel pays fait partie de l'UE ? 
+  - recherche internet et histoire : identification des pièces inconnues. Que représente chaque motif
+
+
+J21.
+- Court métrage en slow motion avec [l'appli Stickbot](https://play.google.com/store/apps/details?id=com.zingglobal.stikbot2)
+- [Vidéo tuto slow motion](https://www.youtube.com/watch?v=_ppedXZHhE0)
+
 
 Next à piocher : 
 - [MK2 Curiosity](https://www.troiscouleurs.fr/curiosity-by-mk2/). Chaque semaine, mk2 et @Trois_Couleurs
