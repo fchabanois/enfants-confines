@@ -38,6 +38,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 
 ## Découverte
 
+* [Tours de magie d'Eric Antoine](https://www.youtube.com/playlist?list=PLdaxuO8eezTMQmFUgGpEOeC4j3QpNAB7Z)
 * un jour une idée : [Pandacraft](https://blog.pandacraft.com/2020/03/unjouruneidee/) 
 * un savoir par jour de Jamy : [Twitter Jamy](https://twitter.com/gourmaud_jamy)
 * [C'est pas sorcier](https://www.youtube.com/channel/UCENv8pH4LkzvuSV_qHIcslg)
@@ -50,6 +51,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * Une [radio pour parler d'écologie](https://soundcloud.com/user-796736315/sets/radio-bambou) 
 * [Sélection de documentaires pour s'évader de chez soi](https://www.lemonde.fr/m-voyage/article/2020/03/28/cinq-documentaires-pour-s-evader-de-chez-soi_6034791_4497613.html)
 * [8 concerts intimes](https://www.lemonde.fr/musiques/article/2020/03/22/huit-concerts-intimes-pour-public-confine_6034046_1654986.html)
+
 
 
 * [Cirque du soleil](https://www.cirquedusoleil.com/fr/cirqueconnect)
