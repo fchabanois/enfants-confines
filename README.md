@@ -95,6 +95,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
   
 ## Liens sociaux
 
+* [Jeux de société offerts par les maisons d'édition](https://apprendre-reviser-memoriser.fr/jeu-de-societe-famille-offerts/)
 * [Fous fous fous de PnP](https://drive.google.com/file/d/1dSE1A0RyXTbLjVMDvpRxMluDKtaRdnF2/view), à imprimer
 * [5 Jeux du rire](https://apprendreaeduquer.fr/5-jeux-du-rire-enfants-leurs-parents/)
 * [Jeux pour renforcer liens famille](https://apprendreaeduquer.fr/jeu-7-familles-bien-etre/)
