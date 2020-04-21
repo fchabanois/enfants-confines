@@ -83,6 +83,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * Jeux éducatifs primaire et collège sur [logicieleducatif.fr](https://www.logicieleducatif.fr). Par exemple pour le CE1? [le jeu des allumettes](https://www.logicieleducatif.fr/math/calcul/allumettes-du-calcul.php) est sympa.
 * Jeu des objets : rassembler tous un tas d’objets de petite/moyenne taille autour de soi. Chacun son tour, on place un objet dans un sac. On doit récapituler au fur et à mesure tout ce qu’il y a dans le sac. Ex : « dans le sac, il y a une cuillère, une pile, une clé, etc. ». Quand on ne se souvient plus, on arrête tout et on recommence à remplir le sac.
 * Jeu de la photo : on demande à l’enfant de bien « photographier » la disposition des objets/meubles dans la pièce pendant 2 minutes. Puis il doit aller se cacher, on déplace alors une chaise et quelques éléments bien visibles. Lorsque l’enfant revient, il doit expliquer ce qui a changé dans la pièce.
+* [Jeux géographiques Outilstice ](https://outilstice.com/2020/04/5-sites-de-jeux-geographiques/#gs.4405ws)
 
 ## Jeux "sportifs"
 
@@ -360,6 +361,7 @@ Next à piocher :
 * [Pair programming en open source](https://philippe.bourgau.net/best-open-source-tools-for-remote-pair-programming/?utm_content=buffer86b0f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Trello pour intégration à distance](https://trello.com/b/nGvGcHbK/remote-onboarding-by-eleven-labs), par Eleven labs
 * [Télétravail à domicile](https://www.carsat-nordpicardie.fr/images/stories/GRP/mp%20teletravail.pdf), Carsat Nord Picardie
+* Nombreuses ressoures sur [Outils Tice](https://outilstice.com/2020/04/logiciels-libres-gratuits-pour-rester-en-contact-pendant-le-confinement/#gs.44067j) : outils pour QCM, visioconf, cours interactifs
 
 # Nourritures
 
