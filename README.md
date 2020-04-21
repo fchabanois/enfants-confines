@@ -80,6 +80,7 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
   
 ## Jeux éducatifs
 
+* [Jeux de mots créativité](https://apprendre-reviser-memoriser.fr/jeux-de-mots-creativite-enfants/)
 * Jeux éducatifs primaire et collège sur [logicieleducatif.fr](https://www.logicieleducatif.fr). Par exemple pour le CE1? [le jeu des allumettes](https://www.logicieleducatif.fr/math/calcul/allumettes-du-calcul.php) est sympa.
 * Jeu des objets : rassembler tous un tas d’objets de petite/moyenne taille autour de soi. Chacun son tour, on place un objet dans un sac. On doit récapituler au fur et à mesure tout ce qu’il y a dans le sac. Ex : « dans le sac, il y a une cuillère, une pile, une clé, etc. ». Quand on ne se souvient plus, on arrête tout et on recommence à remplir le sac.
 * Jeu de la photo : on demande à l’enfant de bien « photographier » la disposition des objets/meubles dans la pièce pendant 2 minutes. Puis il doit aller se cacher, on déplace alors une chaise et quelques éléments bien visibles. Lorsque l’enfant revient, il doit expliquer ce qui a changé dans la pièce.
