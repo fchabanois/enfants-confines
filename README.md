@@ -362,7 +362,8 @@ Next à piocher :
 * [Trello pour intégration à distance](https://trello.com/b/nGvGcHbK/remote-onboarding-by-eleven-labs), par Eleven labs
 * [Télétravail à domicile](https://www.carsat-nordpicardie.fr/images/stories/GRP/mp%20teletravail.pdf), Carsat Nord Picardie
 * Nombreuses ressoures sur [Outils Tice](https://outilstice.com/2020/04/logiciels-libres-gratuits-pour-rester-en-contact-pendant-le-confinement/#gs.44067j) : outils pour QCM, visioconf, cours interactifs
-* Plateformes collaboratives pour prof, entreprises : https://fr.padlet.com/ 
+* Plateformes collaboratives pour prof, entreprises : https://fr.padlet.com/, [revues jeunesse](https://outilstice.com/2020/03/tous-les-titres-de-la-presse-jeunesse-gratuits-pendant-la-periode-de-confinement/#gs.43zbp0)
+
 
 # Nourritures
 
