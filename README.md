@@ -302,6 +302,11 @@ J21.
 - Court métrage en slow motion avec [l'appli Stickbot](https://play.google.com/store/apps/details?id=com.zingglobal.stikbot2)
 - [Vidéo tuto slow motion](https://www.youtube.com/watch?v=_ppedXZHhE0)
 
+J22.
+- [CNV Vidéo 6 : comment formuler une requête claire](https://apprendreaeduquer.fr/comment-formuler-requete-claire-en-cnv-69/)
+- [Replay Le monde de Jamy : la tête dans les étoiles, avec Thomas Pesquet](https://www.france.tv/france-3/le-monde-de-jamy/949517-la-tete-dans-les-etoiles.html)
+
+
 
 Next à piocher : 
 - [MK2 Curiosity](https://www.troiscouleurs.fr/curiosity-by-mk2/). Chaque semaine, mk2 et @Trois_Couleurs
