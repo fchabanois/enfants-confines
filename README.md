@@ -307,6 +307,12 @@ J22.
 - [Replay Le monde de Jamy : la tête dans les étoiles, avec Thomas Pesquet](https://www.france.tv/france-3/le-monde-de-jamy/949517-la-tete-dans-les-etoiles.html)
 
 
+J23.
+- [Documentaire Science Fair, sur Disney +](https://www.disneyplus.com/fr-fr/movies/science-fair/1tvmHXVxZRLI). Très mixte et des rôles models intéressants.
+
+J24.
+- [Ces animaux qui nous font du bien, du monde de Jamy](https://www.france.tv/france-3/le-monde-de-jamy/903463-ces-animaux-qui-nous-font-du-bien.html)
+
 
 Next à piocher : 
 - [MK2 Curiosity](https://www.troiscouleurs.fr/curiosity-by-mk2/). Chaque semaine, mk2 et @Trois_Couleurs
