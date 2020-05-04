@@ -312,6 +312,7 @@ Next à piocher :
 - [MK2 Curiosity](https://www.troiscouleurs.fr/curiosity-by-mk2/). Chaque semaine, mk2 et @Trois_Couleurs
  vous offrent une sélection de films gratuits. Découvrez l’épisode 3 de mk2 Curiosity.
 - [Harry Potter @home](https://www.wizardingworld.com/collections/harry-potter-at-home)
+- [Cahier d'activités Harry Potter](http://www.londrespourlesenfants.com/blog/a-slice-of-our-life/des-cahiers-d-activites-magiques-harry-potter-et-c-est-gratuit.html)
 - [Cirque du soleil](https://parissecret.com/confinement-le-cirque-du-soleil-diffuse-ses-spectacles-en-ligne-gratuitement/)
 - https://blog.pandacraft.com/2020/03/papier-recycle/
 - [Identifier et verbaliser émotions](https://blog.pandacraft.com/2020/03/emotions/)
