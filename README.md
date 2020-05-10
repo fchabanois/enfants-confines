@@ -328,7 +328,16 @@ Next à piocher :
 - [Mots croisés de Picobogue](https://www.dargaud.com/Le-Mag/Actualites/Atelier-jeunesse-Les-Mots-croises-de-Pico-Bogue)
 - [17 activités scientifiques et ludiques et créatives sur echo sciences](https://www.echosciences-sud.fr/articles/confinement-intelligent-17-activites-scientifiques-ludiques-et-creatives-a-faire-chez-soi). Magicien mathématique, expériences... ca a l'air super ! 
 
-
+Jeux à tester
+- Top ten : https://drive.google.com/file/d/1g3gm26JO2_USRGFUD4aRAv_EqgmDw_iQ/view
+- Combo color : https://aujeumag.asmodee-canada.com/imprimez-et-jouez.html?fbclid=IwAR1saqtodFI4s3rYpdT0sQKC0IVrW7BBemjinmHJbq8QrzjJQuEIVw-l-48
+- Cortex : https://aujeumag.asmodee-canada.com/imprimez-et-jouez.html?fbclid=IwAR1saqtodFI4s3rYpdT0sQKC0IVrW7BBemjinmHJbq8QrzjJQuEIVw-l-48
+- Timeline : https://print-and-play.asmodee.fun/files/timeline/timeline_demo_fr.pdf
+- Cortex :  https://print-and-play.asmodee.fun/fr/cortex/
+- Story cubes : https://print-and-play.asmodee.fun/fr/rory-story-cubes/
+- Sherlock holmes : https://print-and-play.asmodee.fun/fr/sherlock-holmes/
+- Chroni : https://www.onthegoeditions.fr/print-and-play/ (bcp de pages couleurs)
+- Snap : https://www.onthegoeditions.fr/print-and-play/ (bcp de pages couleurs)
 
 
 ## A préparer 
