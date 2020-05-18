@@ -316,6 +316,7 @@ J24.
 
 
 Next à piocher : 
+- BD émotions [vol 1 ](https://cdn.flipsnack.com/widget/v2/widget.html?hash=fh3q783pr), [vol 2](https://cdn.flipsnack.com/widget/v2/widget.html?hash=fh56xf5jd)
 - [MK2 Curiosity](https://www.troiscouleurs.fr/curiosity-by-mk2/). Chaque semaine, mk2 et @Trois_Couleurs
  vous offrent une sélection de films gratuits. Découvrez l’épisode 3 de mk2 Curiosity.
 - [Harry Potter @home](https://www.wizardingworld.com/collections/harry-potter-at-home)
