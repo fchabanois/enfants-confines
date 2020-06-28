@@ -197,6 +197,7 @@ Au terme de ces écoutes, vous pouvez lui demander ce qu'il a compris ou de dess
 * [Albuds BD gratuits, dont Ducobu, enfants de la résistance](https://www.lelombard.com/actualite/actualites/confinement-albums-gratuits)
 * Appli [Bayam](https://bayam.tv/fr/) avec jeux pour tout âge. Gratuite pendant COVID-19. Spéciale Mortèle Adèle en ce moment.
 * Dessins animés et pédagogie : [France TV](https://www.france.tv/enfants/)
+* Magazines [Biscoto](https://www.sortiraparis.com/enfant-famille/articles/217085-biscoto-le-magazine-plein-d-activites-pour-les-enfants-est-gratuit-pendant-le-co)
 
 
 
