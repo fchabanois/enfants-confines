@@ -157,6 +157,7 @@ vase, un fauteuil et des chaussures
 * [Class'Code qui a rassemblé 40 activités de 7 à 16+ ans](https://pixees.fr/quarante-activites-pour-la-quarantaine/)
 * [Vidéos pas à pas de Tonton Maker](https://www.youtube.com/channel/UCIrWHCZhoqje6zHwDjEJVcw)
 * [Ressources de Mixteen](https://mixteen.org/ressources.html)
+* [Cahier de vacances 7-12 ans cybersécurité](https://securitytuesday.com/wp-content/uploads/2018/10/ISSA.Cahier.SecNum777.pdf)
 
 
 ## Histoires
