@@ -86,6 +86,8 @@ le mardi soir en prime time pour les collégiens et lycéens : Entrée en matiè
 * Jeu de la photo : on demande à l’enfant de bien « photographier » la disposition des objets/meubles dans la pièce pendant 2 minutes. Puis il doit aller se cacher, on déplace alors une chaise et quelques éléments bien visibles. Lorsque l’enfant revient, il doit expliquer ce qui a changé dans la pièce.
 * [Jeux géographiques Outilstice ](https://outilstice.com/2020/04/5-sites-de-jeux-geographiques/#gs.4405ws)
 
+* [Cours de musique à partir de 5 ans](https://www.imusic-kids.com/ecole-de-musique-enfants-ligne/cours-de-musique-enfants/)
+
 ## Jeux "sportifs"
 
 * Jeu du foulard à la taille : les deux joueurs ont un foulard accroché à leur ceinture au niveau de leur dos. Le but est de saisir le foulard de l’autre, sans le toucher, tout en préservant le sien !
